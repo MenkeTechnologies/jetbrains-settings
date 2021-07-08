@@ -1,0 +1,21 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <shortuct text="ENTER" />
+      <shortuct text="ENTER" />
+      <shortuct text="DOWN" />
+      <shortuct text="UP" />
+      <typing text-keycode="79:0">o</typing>
+      <shortuct text="ENTER" />
+      <shortuct text="ENTER" />
+      <shortuct text="UP" />
+      <shortuct text="UP" />
+      <shortuct text="UP" />
+      <shortuct text="DOWN" />
+      <shortuct text="UP" />
+      <shortuct text="DOWN" />
+      <shortuct text="UP" />
+      <shortuct text="DOWN" />
+    </macro>
+  </component>
+</application>

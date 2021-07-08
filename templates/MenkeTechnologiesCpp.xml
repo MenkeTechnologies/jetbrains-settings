@@ -1,0 +1,9 @@
+<templateSet group="MenkeTechnologiesCpp">
+  <template name="c" value="cout &lt;&lt; &quot;\n_____________'$EXPR2$' = '&quot; &lt;&lt; $EXPR$ &lt;&lt; &quot;'_____________\n&quot; &lt;&lt; endl;" description="cout" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="cpp" value="true" />
+    </context>
+  </template>
+</templateSet>
