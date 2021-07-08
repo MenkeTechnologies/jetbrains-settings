@@ -1,0 +1,8 @@
+<templateSet group="React">
+  <template name="ss" value="this.setState((state, props) =&gt;{ &#10;    return {&#10;        $END$&#10;    }&#10;});&#10;" description="Performs a shallow merge of nextState into current state" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
