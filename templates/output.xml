@@ -1,0 +1,8 @@
+<templateSet group="output">
+  <template name="ho" value="&lt;h:outputText value=&quot;$1$&quot;/&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>
