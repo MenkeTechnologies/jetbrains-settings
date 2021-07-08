@@ -1,0 +1,16 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="Oracle" injector-id="js">
+      <display-name>SQL select/delete</display-name>
+      <place><![CDATA[jsLiteral().withStringValue(string().matchesBrics(" *(SELECT|DELETE) .*FROM .*"))]]></place>
+    </injection>
+    <injection language="ThymeleafExpressions" injector-id="xml">
+      <display-name>td/@text</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("text")).withNamespace(string().equalTo("http://www.thymeleaf.org")).withParent(xmlTag().withLocalName(string().equalTo("td")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="ThymeleafTemplatesExpressions" injector-id="xml">
+      <display-name>tr/@each</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("each")).withNamespace(string().equalTo("http://www.thymeleaf.org")).withParent(xmlTag().withLocalName(string().equalTo("tr")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+  </component>
+</application>
