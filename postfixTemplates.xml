@@ -1,0 +1,6 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="com.intellij.lang.javascript.template.postfix.JSLogPostfixTemplate#.log" key=".l" provider="builtin.js" builtin="com.intellij.lang.javascript.template.postfix.JSLogPostfixTemplate#.log" />
+    <template id="de.endrullis.idea.postfixtemplates.templates.CombinedPostfixTemplate#soutv" key=".sv" provider="de.endrullis.idea.postfixtemplates.languages.java.JavaPostfixTemplateProvider" builtin="de.endrullis.idea.postfixtemplates.templates.CombinedPostfixTemplate#soutv" />
+  </component>
+</application>

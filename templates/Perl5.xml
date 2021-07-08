@@ -1,0 +1,18 @@
+<templateSet group="Perl5">
+  <template name="fe" value="for (@$END$) {&#10;    print $_,&quot;\n&quot;;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PERL5" value="true" />
+    </context>
+  </template>
+  <template name="w" value="while (($key,$value)=each %$END$){&#10;    print &quot;KEY: $key _________VALUE: $value&quot;,&quot;\n&quot;;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PERL5" value="true" />
+    </context>
+  </template>
+  <template name="f" value="for (my $i=0; $i&lt;$VAR$; $i++) {&#10;    $END$;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PERL5" value="true" />
+    </context>
+  </template>
+</templateSet>
