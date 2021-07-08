@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="jamenk@email.wm.edu" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>

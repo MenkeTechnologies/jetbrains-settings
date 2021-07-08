@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Cursive Licence" displayType="NONE" shouldLog="false" />
+    <notification groupId="Platform and Plugin Updates" shouldLog="false" />
+    <notification groupId="Plugin Error" displayType="NONE" />
+  </component>
+</application>

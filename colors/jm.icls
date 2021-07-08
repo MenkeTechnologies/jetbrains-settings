@@ -1,0 +1,17 @@
+<scheme name="jm" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="c257ae" />
+      </value>
+    </option>
+    <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4559c2" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
