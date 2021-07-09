@@ -17,6 +17,26 @@
                       <FeaturePluginData displayName="Perl Remote Debugging" pluginName="Perl" pluginId="com.perl5" />
                     </value>
                   </entry>
+                  <entry key="AppCodeCatchTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Catch" pluginName="AppCode Catch" pluginId="org.jetbrains.plugins.appcode.test.catch" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="AppleAppExtensionRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Application Extension" pluginName="AppCode IDE" pluginId="com.intellij.appcode" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="AppleRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Application" pluginName="AppCode IDE" pluginId="com.intellij.appcode" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="AppleScriptRunType">
+                    <value>
+                      <FeaturePluginData displayName="Run AppleScript" pluginName="AppleScript Support" pluginId="com.intellij.plugin.applescript" />
+                    </value>
+                  </entry>
                   <entry key="CLionExternalRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Custom Build Application" pluginName="CLion IDE" pluginId="com.intellij.clion" bundled="true" />
@@ -172,6 +192,21 @@
                       <FeaturePluginData displayName="NW.js" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="OCBoostTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Boost.Test" pluginName="AppCode Boost.Test" pluginId="org.jetbrains.plugins.appcode.test.boost" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="OCGoogleTestRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Google Test" pluginName="AppCode Google Testing and Mocking Framework" pluginId="org.jetbrains.plugins.appcode.test.google" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="OCUnitRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="XCTest" pluginName="AppCode IDE" pluginId="com.intellij.appcode" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="PerlTestRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Perl5 Test" pluginName="Perl" pluginId="com.perl5" />
@@ -197,9 +232,24 @@
                       <FeaturePluginData displayName="Erlang Rebar" pluginName="Erlang" pluginId="org.jetbrains.erlang" />
                     </value>
                   </entry>
+                  <entry key="ShConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="SwaggerCodegen">
                     <value>
                       <FeaturePluginData displayName="Swagger Codegen" pluginName="OpenAPI Specifications" pluginId="com.intellij.swagger" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="SwiftPackageManagerRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Swift Package Run" pluginName="AppCode IDE" pluginId="com.intellij.appcode" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="SwiftPackageManagerTestRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Swift Package Test" pluginName="AppCode IDE" pluginId="com.intellij.appcode" bundled="true" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">
