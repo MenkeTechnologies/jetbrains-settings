@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Exercism/swift" />
+        <option value="$USER_HOME$/Desktop/uf-summer2021/cop4020" />
       </list>
     </option>
   </component>
