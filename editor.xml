@@ -6,6 +6,7 @@
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <option name="JSP_ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.List" />
@@ -16,11 +17,14 @@
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
-    <option name="IS_CAMEL_WORDS" value="true" />
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
   </component>
   <component name="RubyEditorOptions">
     <option name="startInterpolationOnHash" value="true" />
