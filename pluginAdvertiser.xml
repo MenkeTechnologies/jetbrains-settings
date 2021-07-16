@@ -327,6 +327,11 @@
                       <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="MongoRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="Mongo" pluginName="Mongo Plugin" pluginId="Mongo Plugin" />
+                    </value>
+                  </entry>
                   <entry key="NodeWebKit">
                     <value>
                       <FeaturePluginData displayName="NW.js" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
