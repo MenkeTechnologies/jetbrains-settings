@@ -5,16 +5,13 @@
       <mapping pattern="me.wav" type="PLAIN_TEXT" />
       <mapping pattern="SearchBar" type="PLAIN_TEXT" />
       <mapping ext="mp3" type="PLAIN_TEXT" />
-      <mapping ext="sdef" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="config" type="LOMBOK_CONFIG" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="config" type="Erlang Terms" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
