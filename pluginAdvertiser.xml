@@ -74,7 +74,7 @@
                   </entry>
                   <entry key="CapistranoRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Capistrano" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Capistrano" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
@@ -99,7 +99,7 @@
                   </entry>
                   <entry key="CommandRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Gem Command" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Gem Command" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ComposePreviewRunConfiguration">
@@ -119,7 +119,7 @@
                   </entry>
                   <entry key="CucumberRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Cucumber" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Cucumber" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="DatabaseScript">
@@ -204,7 +204,7 @@
                   </entry>
                   <entry key="IrbRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Ruby Console" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Ruby Console" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="JBossConfiguration">
@@ -302,6 +302,21 @@
                       <FeaturePluginData displayName="Micronaut" pluginName="Micronaut" pluginId="com.intellij.micronaut" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="MixESpecRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Elixir Mix ESpec" pluginName="Elixir" pluginId="org.elixir_lang" />
+                    </value>
+                  </entry>
+                  <entry key="MixExUnitRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Elixir Mix ExUnit" pluginName="Elixir" pluginId="org.elixir_lang" />
+                    </value>
+                  </entry>
+                  <entry key="MixRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Elixir Mix" pluginName="Elixir" pluginId="org.elixir_lang" />
+                    </value>
+                  </entry>
                   <entry key="NodeJSConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Node.js" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
@@ -374,22 +389,22 @@
                   </entry>
                   <entry key="RSpecRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="RSpec" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="RSpec" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="RackRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Rack" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Rack" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="RailsRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="RakeRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Rake" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Rake" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
@@ -414,12 +429,12 @@
                   </entry>
                   <entry key="RubyRemoteDebugConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Ruby remote debug" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Ruby remote debug" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="RubyRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Ruby" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Ruby" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="SbtRunConfiguration">
@@ -459,7 +474,7 @@
                   </entry>
                   <entry key="SporkRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Spork DRb" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Spork DRb" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="SpringBootApplicationConfigurationType">
@@ -489,7 +504,7 @@
                   </entry>
                   <entry key="TestUnitRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Test::Unit/Shoulda/Minitest" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Test::Unit/Shoulda/Minitest" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="TomeeConfiguration">
@@ -524,7 +539,7 @@
                   </entry>
                   <entry key="ZeusRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Zeus Server" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Zeus Server" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
@@ -552,6 +567,26 @@
                       <FeaturePluginData displayName="Mocha" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="org.elixir_lang.distillery.configuration.Type">
+                    <value>
+                      <FeaturePluginData displayName="Distillery Release CLI" pluginName="Elixir" pluginId="org.elixir_lang" />
+                    </value>
+                  </entry>
+                  <entry key="org.elixir_lang.elixir.configuration.ConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Elixir" pluginName="Elixir" pluginId="org.elixir_lang" />
+                    </value>
+                  </entry>
+                  <entry key="org.elixir_lang.iex.configuration.ConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="IEx" pluginName="Elixir" pluginId="org.elixir_lang" />
+                    </value>
+                  </entry>
+                  <entry key="org.elixir_lang.iex.mix.configuration.Type">
+                    <value>
+                      <FeaturePluginData displayName="IEx Mix" pluginName="Elixir" pluginId="org.elixir_lang" />
+                    </value>
+                  </entry>
                   <entry key="tests">
                     <value>
                       <FeaturePluginData displayName="Python tests" pluginName="Python" pluginId="Pythonid" />
@@ -577,6 +612,11 @@
                       <FeaturePluginData displayName="AspectJ" pluginName="AspectJ" pluginId="com.intellij.aspectj" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="Elixir">
+                    <value>
+                      <FeaturePluginData displayName="Elixir" pluginName="Elixir" pluginId="org.elixir_lang" />
+                    </value>
+                  </entry>
                   <entry key="JRUBY">
                     <value>
                       <FeaturePluginData displayName="JRuby" pluginName="org.jetbrains.plugins.ruby" pluginId="org.jetbrains.plugins.ruby" />
@@ -594,7 +634,7 @@
                   </entry>
                   <entry key="RailsFacetType">
                     <value>
-                      <FeaturePluginData displayName="Ruby on Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Ruby on Rails" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Spring">
@@ -644,7 +684,7 @@
                   </entry>
                   <entry key="gem">
                     <value>
-                      <FeaturePluginData displayName="Gem" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" />
+                      <FeaturePluginData displayName="Gem" pluginName="Ruby" pluginId="org.jetbrains.plugins.ruby" bundled="true" />
                     </value>
                   </entry>
                   <entry key="google-appengine-python">
