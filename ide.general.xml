@@ -36,7 +36,6 @@
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
-    <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
   <component name="StatusBar">
