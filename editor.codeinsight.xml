@@ -1,4 +1,7 @@
 <application>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
   <component name="RsCodeFoldingSettings">
     <option name="collapsibleOneLineMethods" value="false" />
   </component>
