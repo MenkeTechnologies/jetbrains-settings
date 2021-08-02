@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'interpreter'" />
-    <option name="defaultScopeName" value="Project 'interpreter'" />
-    <option name="SEARCH_SCOPE" value="Project 'interpreter'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
