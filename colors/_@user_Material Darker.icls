@@ -1,10 +1,10 @@
 <scheme name="_@user_Material Darker" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-07-26T22:37:51</property>
-    <property name="ide">WebStorm</property>
+    <property name="created">2021-08-04T09:25:26</property>
+    <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-07-26T22:38:38</property>
+    <property name="modified">2021-08-04T21:51:33</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -223,9 +223,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff9800" />
@@ -804,7 +801,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
@@ -943,17 +939,17 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_COMMENT" baseAttributes="DEFAULT_DOC_COMMENT" />
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_COMMENT" baseAttributes="" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="c792ea" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
-    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HAML_RUBY_CODE" baseAttributes="" />
+    <option name="HAML_RUBY_START" baseAttributes="" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -966,7 +962,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
+    <option name="HAML_TEXT" baseAttributes="" />
     <option name="HAML_WS_REMOVAL">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -974,7 +970,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HOCON_BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -1391,7 +1387,7 @@
         <option name="FOREGROUND" value="c792ea" />
       </value>
     </option>
-    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="JUPYTER_SELECTED_CELL">
       <value>
         <option name="BACKGROUND" value="323232" />
@@ -2922,20 +2918,6 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="PERL_ARRAY" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PERL_ARRAY_BUILTIN" baseAttributes="PERL_ARRAY" />
-    <option name="PERL_EMBED_MARKER" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
-    <option name="PERL_GLOB_BUILTIN" baseAttributes="PERL_GLOB" />
-    <option name="PERL_HASH" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PERL_HASH_BUILTIN" baseAttributes="PERL_HASH" />
-    <option name="PERL_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PERL_PACKAGE_CORE" baseAttributes="PERL_PACKAGE" />
-    <option name="PERL_PACKAGE_PRAGMA" baseAttributes="PERL_PACKAGE" />
-    <option name="PERL_SCALAR" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="PERL_SCALAR_BUILTIN" baseAttributes="PERL_SCALAR" />
-    <option name="PERL_SUB" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="PERL_SUB_BUILTIN" baseAttributes="PERL_SUB" />
-    <option name="PERL_XSUB" baseAttributes="PERL_SUB" />
     <option name="PHP.USE_NAMESPACE">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
@@ -3510,6 +3492,7 @@
         <option name="FOREGROUND" value="f78c6c" />
       </value>
     </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="ReSharper.FORMAT_STRING_ITEM" />
     <option name="ReSharper.HINT">
       <value>
         <option name="EFFECT_COLOR" value="89ddff" />
@@ -3536,6 +3519,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
