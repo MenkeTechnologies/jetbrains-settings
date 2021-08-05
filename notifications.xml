@@ -4,6 +4,7 @@
     <notification groupId="Cursive Licence" displayType="NONE" shouldLog="false" />
     <notification groupId="Custom Postfix Templates" displayType="NONE" shouldLog="false" />
     <notification groupId="File type recognized" displayType="NONE" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
     <notification groupId="JBA Cloud Config" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Platform and Plugin Updates" shouldLog="false" />
   </component>
