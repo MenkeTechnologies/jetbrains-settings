@@ -65,10 +65,12 @@
         <root url="jar:///usr/local/Cellar/groovy/3.0.8/libexec/lib/jackson-databind-2.12.3.jar!/" />
         <root url="jar:///usr/local/Cellar/groovy/3.0.8/libexec/lib/junit-platform-commons-1.7.0.jar!/" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="Python 2.7 interpreter library">
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="Python 3.9 interpreter library">
@@ -119,6 +121,7 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/python-dateutil" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stubs/typing-extensions" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9" />
         <root url="file:///usr/local/Cellar/python@3.9/3.9.6/Frameworks/Python.framework/Versions/3.9/lib/python3.9/lib-dynload" />
@@ -180,6 +183,9 @@
         <root url="jar:///usr/local/Cellar/scala/2.13.6/libexec/lib/scala-library.jar!/" />
         <root url="jar:///usr/local/Cellar/scala/2.13.6/libexec/lib/scala-reflect.jar!/" />
       </CLASSES>
+      <JAVADOC>
+        <root url="https://www.scala-lang.org/api/2.13.6/" />
+      </JAVADOC>
       <SOURCES />
     </library>
   </component>

@@ -22,7 +22,6 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
-    <entry key="ide.suppress.double.click.handler" value="true" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="ide.require.transaction.for.model.changes" value="false" />
@@ -36,8 +35,9 @@
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
