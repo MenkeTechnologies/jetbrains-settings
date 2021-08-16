@@ -76,6 +76,9 @@
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="OpenElementInNewWindow" />
+  <action id="OpenInRightSplit">
+    <mouse-shortcut keystroke="alt button1 doubleClick" />
+  </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
