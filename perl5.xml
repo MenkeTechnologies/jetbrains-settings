@@ -1,6 +1,6 @@
 <application>
   <component name="Perl5ApplicationSettings">
-    <option name="pluginVersion" value="212.4535.15-EAP-SNAPSHOT" />
+    <option name="pluginVersion" value="2021.2" />
     <option name="popupShown" value="true" />
   </component>
   <component name="PerlInterpreters">
@@ -10,6 +10,9 @@
       <version value="v5.28.1 for darwin-thread-multi-2level" />
       <homePath value="/usr/local/Cellar/perl/5.28.1/bin/perl" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="file:///usr/local/Cellar/perl/5.28.1/lib/perl5/site_perl/5.28.1/darwin-thread-multi-2level" type="simple" />
@@ -18,6 +21,9 @@
             <root url="file:///usr/local/Cellar/perl/5.28.1/lib/perl5/5.28.1" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -34,6 +40,9 @@
       <version value="5.34.0 for darwin-thread-multi-2level" />
       <homePath value="/usr/local/Cellar/perl/5.34.0/bin/perl" />
       <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
         <classPath>
           <root type="composite">
             <root url="file://$USER_HOME$/perl5/lib/perl5/5.34.0/darwin-thread-multi-2level" type="simple" />
@@ -46,6 +55,9 @@
             <root url="file:///usr/local/Cellar/perl/5.34.0/lib/perl5/5.34.0" type="simple" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
