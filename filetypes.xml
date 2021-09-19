@@ -4,6 +4,9 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping pattern=".rvmrc" type="PLAIN_TEXT" />
+      <removed_mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
+      <removed_mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="psd" approved="true" type="Image" />
