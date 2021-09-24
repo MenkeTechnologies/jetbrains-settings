@@ -1,0 +1,330 @@
+<templateSet group="MenkeTechnologiesCore">
+  <template name="ie" value="if ($1$) {&#10;    $2$&#10;} else {&#10;    $3$&#10;}" description="if else" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="PERL5" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="i" value="if ($var$) {&#10;    $end$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="PERL5" value="true" />
+      <option name="SCALA" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="s" value="System.out.println(&quot;\n_____________'$EXPR2$' = '&quot; + $EXPR$ + &quot;'_____________\n&quot;);" description="System.out.println()" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="ss" value="System.err.println(new StringBuilder().append(&quot;\n_____________Class:&quot;).append(Thread.currentThread().getStackTrace()[1].getClassName()).append(&quot;____Method:&quot;).append(Thread.currentThread().getStackTrace()[1].getMethodName()).append(&quot;___Line:&quot;).append(Thread.currentThread().getStackTrace()[1].getLineNumber()).append(&quot;____\n_____________$EXPR2$ = &quot;).append($EXPR$).append(&quot;_____________\n&quot;).toString());" description="System.out.println(&quot;&quot;)" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="EXPR" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="sw" value="switch ($obj$) {&#10;    case $1$: $2$&#10;        break;&#10;    case $3$: $4$&#10;        break;&#10;    default: $5$&#10;        break;&#10;}" description="Switch" toReformat="false" toShortenFQNames="true">
+    <variable name="obj" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="t" value="try {&#10;    $1$&#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;}" description="Try Catch" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="cmdExec" value="  Process px = null;&#10;&#10;        try {&#10;&#10;            px = Runtime.getRuntime().exec(&quot;$command$&quot;);&#10;            px.waitFor();&#10;&#10;&#10;        } catch (Exception e1) {&#10;&#10;&#10;        } finally {&#10;&#10;            px.destroy();&#10;        }" description="Command Line Script" toReformat="false" toShortenFQNames="true">
+    <variable name="command" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="k" value="key-&gt; {&#10;       $HERE$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="HERE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tr" value="try ($Res$) {&#10;        &#10;} catch (Exception e) {&#10;    e.printStackTrace();&#10;}" description="Try With Resources" toReformat="false" toShortenFQNames="true">
+    <variable name="Res" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sf" value="System.out.printf(&quot;$VAR$\n&quot;$END$);" description="souf" toReformat="false" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="iee" value="if ($1$) {&#10;    $2$&#10;} else if ($3$) {&#10;    $4$&#10;} else {&#10;    $5$&#10;}" description="if else if else" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="PERL5" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="w" value="while ($1$) {&#10;    $2$&#10;}" description="while" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="inst" value="if ($EXPR$ instanceof $TYPE$) {&#10;  $TYPE$ $VAR1$ = ($TYPE$)$EXPR$;&#10;  $END$&#10;}" description="Checks object type with instanceof and down-casts it" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;Object&quot;)" defaultValue="expr" alwaysStopAt="true" />
+    <variable name="TYPE" expression="&quot;Object&quot;" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR1" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="lst" value="$ARRAY$[$ARRAY$.length - 1]" description="Fetches last element of an array" toReformat="true" toShortenFQNames="true">
+    <variable name="ARRAY" expression="arrayVariable()" defaultValue="array" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_EXPRESSION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="mn" value="$VAR$ = Math.min($VAR$, $END$);" description="Sets lesser value to a variable" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="variableOfType(&quot;double&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="mx" value="$VAR$ = Math.max($VAR$, $END$);" description="Sets greater value to a variable" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="variableOfType(&quot;double&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="psvm" value="public static void main(String[] args) {&#10;  $END$&#10;}" description="main() method declaration" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="toar" value="$COLLECTION$.toArray(new $COMPONENT_TYPE$[$COLLECTION$.size()])$END$" description="Stores elements of java.util.Collection into array" toReformat="true" toShortenFQNames="true">
+    <variable name="COMPONENT_TYPE" expression="componentTypeOf(expectedType())" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
+    <variable name="COLLECTION" expression="variableOfType(&quot;java.util.Collection&quot;)" defaultValue="collection" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="lazy" value="if ($VAR$ == null) {&#10;  $VAR$ = new $TYPE$($END$);&#10;}" description="Performs lazy initialization" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="variableOfType(&quot;java.lang.Object&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="subtypes(typeOfVariable(VAR))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="inn" value="if ($VAR$ != null) {&#10;$END$&#10;}" description="Inserts ''if not null'' statement" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="var" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="ifn" value="if ($VAR$ == null) {&#10;$END$&#10;}" description="Inserts ''if null'' statement" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="suggestFirstVariableName(&quot;Object&quot;)" defaultValue="var" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="geti" value="public static $CLASS_NAME$ getInstance() {&#10;  return $VALUE$;&#10;}" description="Inserts singleton method getInstance" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className" defaultValue="" alwaysStopAt="false" />
+    <variable name="VALUE" expression="variableOfType(CLASS_NAME)" defaultValue="null" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="rf" value="for (int i = $start$; i &gt;= 0; --i) {&#10;    $body$&#10;}" description="reversed for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="start" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="f" value="for (int i = 0; i &lt; $end$; ++i) {&#10;    $body$&#10;}" description="for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ff" value="for (int j = 0; j &lt; $end$; ++j) {&#10;    $body$&#10;}" description="for loop inner" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="body" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="so" value="System.out.println($END$);&#10;&#10;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="p" value="println(f&quot;\n_____________'$EXPR2$' = '${$EXPR$}'_____________\n&quot;)" description="scala print" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="l" value="log.info(&quot;\n_____________'$EXPR2$' = '{}'_____________\n&quot;, $EXPR$);" description="log info" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="a" value="($1$) -&gt; {&#10;    $2$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="ieee" value="if ($1$) {&#10;    $2$&#10;} else if ($3$) {&#10;    $4$&#10;} else if ($5$) {&#10;    $6$&#10;} else {&#10;    $7$&#10;}" description="if else if else if else" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="6" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="7" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="PERL5" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="mark" value="#{{{                    MARK:$1$&#10;#**************************************************************&#10;$2$&#10;#}}}***********************************************************" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PERL5" value="true" />
+      <option name="Python" value="true" />
+      <option name="RUBY" value="true" />
+      <option name="SHELL_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="markc" value="//{{{                    MARK:$1$&#10;//**************************************************************&#10;$2$&#10;//}}}***********************************************************" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CoffeeScript" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="ld" value="log.debug(&quot;\n_____________'$EXPR2$' = '{}'_____________\n&quot;, $EXPR$);" description="log debug" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="lw" value="log.warn(&quot;\n_____________'$EXPR2$' = '{}'_____________\n&quot;, $EXPR$);" description="log warn" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="le" value="log.error(&quot;\n_____________'$EXPR2$' = '{}'_____________\n&quot;, $EXPR$);" description="log error" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="li" value="log.info(&quot;'$EXPR2$' = '{}'&quot;, $EXPR$);" description="log info" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="GROOVY" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+      <option name="SCALA" value="true" />
+    </context>
+  </template>
+  <template name="," value="::" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

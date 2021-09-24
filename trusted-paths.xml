@@ -1,0 +1,13 @@
+<application>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Exercism/swift" />
+        <option value="$USER_HOME$/Desktop/uf-summer2021/cop4020" />
+        <option value="$USER_HOME$/Exercism/scala" />
+        <option value="$USER_HOME$/Exercism/groovy" />
+        <option value="$USER_HOME$/Exercism/kotlin" />
+      </list>
+    </option>
+  </component>
+</application>
