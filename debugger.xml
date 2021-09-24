@@ -81,11 +81,6 @@
     <data-views />
     <general />
     <debuggers>
-      <debugger id="dotnet_debugger">
-        <configuration>
-          <option name="breakOnUserUnhandledExceptions" value="true" />
-        </configuration>
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
