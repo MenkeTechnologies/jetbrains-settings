@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="main.kts" type="Kotlin" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
@@ -13,6 +12,7 @@
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="gemfile.lock" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
     </extensionMap>
   </component>
 </application>
