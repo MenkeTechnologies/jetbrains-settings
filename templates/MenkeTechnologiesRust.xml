@@ -41,12 +41,6 @@
       <option name="sbt" value="false" />
     </context>
   </template>
-  <template name="," value="::$1$" description="" toReformat="false" toShortenFQNames="true">
-    <variable name="1" expression="complete()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="OTHER" value="true" />
-    </context>
-  </template>
   <template name="ff" value="for i in 0..$1$ {&#10;   $2$ &#10;}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
