@@ -61,4 +61,11 @@
       <option name="RUST_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="p" value="println!(&quot;_____________'$EXPR2$' = '{:?}'_____________&quot;, $EXPR$);$END$" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="RUST_FILE" value="true" />
+    </context>
+  </template>
 </templateSet>
