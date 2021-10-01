@@ -62,4 +62,29 @@
       <option name="RUST_FILE" value="true" />
     </context>
   </template>
+  <template name="i" value="if $1$ {&#10;    $2$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUST_FILE" value="true" />
+    </context>
+  </template>
+  <template name="ie" value="if $1$ {&#10;    $2$&#10;else {&#10;    $3$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUST_FILE" value="true" />
+    </context>
+  </template>
+  <template name="iee" value="if $1$ {&#10;    $2$&#10;else if $3$ {&#10;    $4$&#10;else {&#10;    $5$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUST_FILE" value="true" />
+    </context>
+  </template>
 </templateSet>
