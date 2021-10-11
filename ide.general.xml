@@ -1,7 +1,6 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
-    <option name="confirmOpenNewProject2" value="1" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
   </component>
@@ -10,6 +9,5 @@
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
-    <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
 </application>
