@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="xcscheme" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
