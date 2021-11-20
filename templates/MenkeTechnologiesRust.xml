@@ -87,4 +87,18 @@
       <option name="RUST_FILE" value="true" />
     </context>
   </template>
+  <template name="m2" value="match $1$ {&#10;    Some(success) =&gt; {&#10;        $2$;&#10;    }&#10;    None =&gt; {&#10;        None;&#10;    }&#10;}" description="match" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUST_FILE" value="true" />
+    </context>
+  </template>
+  <template name="m1" value="match $1$ {&#10;    Ok(success) =&gt; {&#10;        $2$&#10;    }&#10;    Err(error) =&gt; {&#10;        error!(&quot;'error' = '{}'&quot;, error);&#10;    }&#10;}" description="match" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUST_FILE" value="true" />
+    </context>
+  </template>
 </templateSet>
