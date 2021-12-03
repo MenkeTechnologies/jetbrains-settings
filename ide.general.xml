@@ -11,5 +11,6 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="clang.parameter.info" value="true" />
+    <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
 </application>
