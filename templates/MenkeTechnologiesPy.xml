@@ -10,8 +10,6 @@
       <option name="MXML" value="false" />
       <option name="OGNL" value="false" />
       <option name="Python" value="true" />
-      <option name="RHTML" value="false" />
-      <option name="RUBY" value="false" />
     </context>
   </template>
   <template name="c" value="puts(&quot;\n_____________'$EXPR2$' = '#{$EXPR$}'_____________\n\n&quot;)" description="" toReformat="false" toShortenFQNames="true">
