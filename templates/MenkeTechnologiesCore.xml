@@ -322,7 +322,8 @@
       <option name="SCALA" value="true" />
     </context>
   </template>
-  <template name="," value="::" description="" toReformat="false" toShortenFQNames="true">
+  <template name="," value="::$1$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="complete()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
