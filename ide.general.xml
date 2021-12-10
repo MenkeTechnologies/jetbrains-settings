@@ -9,6 +9,7 @@
     <entry key="external.system.auto.import.disabled" value="true" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="rdclient.asyncActions" value="false" />
+    <entry key="clang.parameter.info" value="true" />
     <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
