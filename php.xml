@@ -1,17 +1,17 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="6c29a0e0-8244-4cc9-a19c-e152becb9e96" name="PHP 8.0" home="/usr/local/Cellar/php/8.0.12/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="e0d7f95a-43c6-4bea-889b-388808248a3e" name="PHP 8.1" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 8.0">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.0.12/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.0.12/bin/php" path_separator=":" version="8.0.12">
-          <additional_php_ini>/usr/local/etc/php/8.0/conf.d/ext-opcache.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/8.0/php.ini</configuration_file>
+      <interpreter name="PHP 8.1">
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.1.0/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.1.0/bin/php" path_separator=":" version="8.1.0">
+          <additional_php_ini>/opt/homebrew/etc/php/8.1/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/opt/homebrew/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.0.12/share/php/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.1.0/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -57,7 +57,6 @@
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
             <extension name="pgsql" />
-            <extension name="phpdbg_webhelper" />
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
