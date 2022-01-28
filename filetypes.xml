@@ -19,6 +19,7 @@
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="gemfile.lock" approved="true" type="PLAIN_TEXT" />
       <mapping ext="lgt" type="Logtalk resource" />
+      <mapping ext="txt" type="requirements.txt" />
     </extensionMap>
   </component>
 </application>
