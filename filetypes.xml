@@ -19,6 +19,7 @@
       <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="txt" type="requirements.txt" />
     </extensionMap>
   </component>
 </application>
