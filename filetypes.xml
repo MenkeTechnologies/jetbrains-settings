@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="gpx" type="XML" />
-      <mapping ext="qrc" type="XML" />
       <mapping ext="xcscheme" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
