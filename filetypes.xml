@@ -4,12 +4,16 @@
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="pas" type="PLAIN_TEXT" />
+      <mapping ext="dproj" type="XML" />
       <mapping ext="gpx" type="XML" />
+      <mapping ext="lpi" type="XML" />
       <mapping ext="xcscheme" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
       <removed_mapping ext="nim" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="pas" approved="true" type="Pascal" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
