@@ -12,6 +12,5 @@
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
-    <option name="INTRODUCE_CONSTANT_REPLACE_ALL" value="true" />
   </component>
 </application>
