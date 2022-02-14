@@ -1,4 +1,5 @@
 <code_scheme name="Default (1)" version="173">
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <JSCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
