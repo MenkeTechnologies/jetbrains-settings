@@ -1,10 +1,10 @@
 <scheme name="_@user_Moonlight (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-02-15T23:43:37</property>
-    <property name="ide">idea</property>
+    <property name="created">2022-02-14T23:31:01</property>
+    <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-02-15T23:44:45</property>
+    <property name="modified">2022-02-14T23:31:54</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -210,8 +210,8 @@
         <option name="FOREGROUND" value="baacff" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="7af8ca" />
@@ -1289,8 +1289,10 @@
         <option name="FOREGROUND" value="f3c1ff" />
       </value>
     </option>
-    <option name="Implicit conversion" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="ff9668" />
@@ -2911,6 +2913,20 @@
         <option name="FOREGROUND" value="7af8ca" />
       </value>
     </option>
+    <option name="PERL_ARRAY" baseAttributes="" />
+    <option name="PERL_ARRAY_BUILTIN" baseAttributes="" />
+    <option name="PERL_EMBED_MARKER" baseAttributes="" />
+    <option name="PERL_GLOB_BUILTIN" baseAttributes="" />
+    <option name="PERL_HASH" baseAttributes="" />
+    <option name="PERL_HASH_BUILTIN" baseAttributes="" />
+    <option name="PERL_LABEL" baseAttributes="" />
+    <option name="PERL_PACKAGE_CORE" baseAttributes="" />
+    <option name="PERL_PACKAGE_PRAGMA" baseAttributes="" />
+    <option name="PERL_SCALAR" baseAttributes="" />
+    <option name="PERL_SCALAR_BUILTIN" baseAttributes="" />
+    <option name="PERL_SUB" baseAttributes="" />
+    <option name="PERL_SUB_BUILTIN" baseAttributes="" />
+    <option name="PERL_XSUB" baseAttributes="" />
     <option name="PHP_ALIAS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ffdb8e" />
@@ -3028,7 +3044,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="70b0ff" />
@@ -3675,7 +3690,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SUGGESTION">
       <value>
         <option name="EFFECT_COLOR" value="7e8eda" />
@@ -3683,15 +3698,13 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="Scala Immutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Scala Mutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="Scala Predefined types">
       <value>
         <option name="FOREGROUND" value="b4c2f0" />
       </value>
     </option>
-    <option name="Scala Type Alias" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
-    <option name="Scala Type parameter" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
+    <option name="Scala Type Alias" baseAttributes="" />
+    <option name="Scala Type parameter" baseAttributes="" />
     <option name="Static method access" baseAttributes="" />
     <option name="Static property reference ID">
       <value>
@@ -3780,7 +3793,7 @@
         <option name="FOREGROUND" value="baacff" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="ffdb8e" />
@@ -3872,10 +3885,14 @@
         <option name="FOREGROUND" value="ff6363" />
       </value>
     </option>
-    <option name="org.rust.LIFETIME" baseAttributes="" />
-    <option name="org.rust.MUT_BINDING" baseAttributes="" />
-    <option name="org.rust.MUT_PARAMETER" baseAttributes="" />
-    <option name="org.rust.TYPE_PARAMETER" baseAttributes="" />
+    <option name="org.elm.ARROW" baseAttributes="" />
+    <option name="org.elm.BRACES" baseAttributes="" />
+    <option name="org.elm.BRACKETS" baseAttributes="" />
+    <option name="org.elm.COMMA" baseAttributes="" />
+    <option name="org.elm.EQ" baseAttributes="" />
+    <option name="org.elm.OPERATOR" baseAttributes="" />
+    <option name="org.elm.PARENTHESIS" baseAttributes="" />
+    <option name="org.elm.PIPE" baseAttributes="" />
     <option name="org.rust.UNSAFE_CODE">
       <value />
     </option>

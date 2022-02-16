@@ -3,7 +3,7 @@
     <property name="created">2020-04-04T18:27:49</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.3.5.0.0</property>
-    <property name="modified">2022-02-15T23:44:45</property>
+    <property name="modified">2022-02-14T23:31:53</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -47,7 +47,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="dd3962" />
@@ -560,6 +560,11 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value>
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">

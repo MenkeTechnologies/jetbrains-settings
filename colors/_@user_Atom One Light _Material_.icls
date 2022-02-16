@@ -1,10 +1,10 @@
 <scheme name="_@user_Atom One Light (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-02-15T23:43:37</property>
-    <property name="ide">idea</property>
+    <property name="created">2022-02-14T23:31:01</property>
+    <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-02-15T23:44:45</property>
+    <property name="modified">2022-02-14T23:31:54</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -209,7 +209,7 @@
         <option name="FOREGROUND" value="50a14e" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4078f2" />
@@ -345,6 +345,7 @@
         <option name="FOREGROUND" value="c18401" />
       </value>
     </option>
+    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1281,7 +1282,7 @@
         <option name="BACKGROUND" value="eaeaeb" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="184bc" />
@@ -1292,6 +1293,10 @@
         <option name="FOREGROUND" value="e4564a" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -2931,6 +2936,29 @@
         <option name="FOREGROUND" value="50a14e" />
       </value>
     </option>
+    <option name="PERL_ARRAY" baseAttributes="" />
+    <option name="PERL_ARRAY_BUILTIN" baseAttributes="" />
+    <option name="PERL_DQ_STRING" baseAttributes="" />
+    <option name="PERL_DX_STRING" baseAttributes="" />
+    <option name="PERL_EMBED_MARKER" baseAttributes="" />
+    <option name="PERL_GLOB" baseAttributes="" />
+    <option name="PERL_GLOB_BUILTIN" baseAttributes="" />
+    <option name="PERL_HASH" baseAttributes="" />
+    <option name="PERL_HASH_BUILTIN" baseAttributes="" />
+    <option name="PERL_LABEL" baseAttributes="" />
+    <option name="PERL_NUMBER" baseAttributes="" />
+    <option name="PERL_PACKAGE" baseAttributes="" />
+    <option name="PERL_PACKAGE_CORE" baseAttributes="" />
+    <option name="PERL_PACKAGE_PRAGMA" baseAttributes="" />
+    <option name="PERL_REGEX_TOKEN" baseAttributes="" />
+    <option name="PERL_SCALAR" baseAttributes="" />
+    <option name="PERL_SCALAR_BUILTIN" baseAttributes="" />
+    <option name="PERL_SQ_STRING" baseAttributes="" />
+    <option name="PERL_SUB" baseAttributes="" />
+    <option name="PERL_SUB_BUILTIN" baseAttributes="" />
+    <option name="PERL_SUB_DEFINITION" baseAttributes="" />
+    <option name="PERL_VERSION" baseAttributes="" />
+    <option name="PERL_XSUB" baseAttributes="" />
     <option name="PHP_ALIAS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="c18401" />
@@ -3638,10 +3666,8 @@
         <option name="FOREGROUND" value="50a14e" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
-    <option name="Scala Immutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="Scala Mutable Collection" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
     <option name="Scala Predefined types">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -3737,7 +3763,7 @@
         <option name="FOREGROUND" value="50a14f" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="526fff" />
@@ -3832,11 +3858,15 @@
         <option name="FOREGROUND" value="e4564a" />
       </value>
     </option>
-    <option name="org.rust.DOC_CODE" baseAttributes="" />
-    <option name="org.rust.LIFETIME" baseAttributes="" />
-    <option name="org.rust.MUT_BINDING" baseAttributes="" />
-    <option name="org.rust.MUT_PARAMETER" baseAttributes="" />
-    <option name="org.rust.TYPE_PARAMETER" baseAttributes="" />
+    <option name="org.elm.ARROW" baseAttributes="" />
+    <option name="org.elm.BRACES" baseAttributes="" />
+    <option name="org.elm.BRACKETS" baseAttributes="" />
+    <option name="org.elm.COMMA" baseAttributes="" />
+    <option name="org.elm.DEFINITION_NAME" baseAttributes="" />
+    <option name="org.elm.EQ" baseAttributes="" />
+    <option name="org.elm.OPERATOR" baseAttributes="" />
+    <option name="org.elm.PARENTHESIS" baseAttributes="" />
+    <option name="org.elm.PIPE" baseAttributes="" />
     <option name="org.rust.UNSAFE_CODE">
       <value />
     </option>
