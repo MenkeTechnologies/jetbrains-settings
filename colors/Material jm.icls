@@ -4,7 +4,7 @@
     <property name="created">2019-01-25T20:11:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2019-01-25T20:12:24</property>
+    <property name="modified">2022-02-17T00:18:02</property>
     <property name="originalScheme">Darcula jm copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -120,6 +120,31 @@
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e46be8" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="2b2b1e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="222b22" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="2b222b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="1f2a2a" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="391d1d" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
