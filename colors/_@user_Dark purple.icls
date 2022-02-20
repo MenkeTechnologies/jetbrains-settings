@@ -3,7 +3,7 @@
     <property name="created">2020-04-04T18:27:49</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2019.3.5.0.0</property>
-    <property name="modified">2020-04-05T02:38:32</property>
+    <property name="modified">2022-02-14T23:31:53</property>
     <property name="originalScheme">Dark purple</property>
   </metaInfo>
   <colors>
@@ -218,8 +218,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="DEBUGGER_INLINED_VALUES">
       <value>
         <option name="FOREGROUND" value="80809e" />
@@ -488,6 +488,31 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="INDENT_RAINBOW_COLOR_1">
+      <value>
+        <option name="BACKGROUND" value="2d2d28" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_2">
+      <value>
+        <option name="BACKGROUND" value="242d2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_3">
+      <value>
+        <option name="BACKGROUND" value="2d2435" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_4">
+      <value>
+        <option name="BACKGROUND" value="212c34" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_ERROR">
+      <value>
+        <option name="BACKGROUND" value="3b1e24" />
+      </value>
+    </option>
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="b39500" />
@@ -518,7 +543,6 @@
         <option name="BACKGROUND" value="666666" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="" />
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_ANNOTATION">
       <value>
