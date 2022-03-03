@@ -1,0 +1,14 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Accepted language levels" displayType="NONE" />
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Cursive" displayType="NONE" />
+    <notification groupId="Cursive Licence" displayType="NONE" shouldLog="false" />
+    <notification groupId="Custom Postfix Templates" displayType="NONE" shouldLog="false" />
+    <notification groupId="File type recognized" displayType="NONE" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="JBA Cloud Config" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Material Theme Notifications" displayType="NONE" shouldLog="false" />
+    <notification groupId="Platform and Plugin Updates" shouldLog="false" />
+  </component>
+</application>

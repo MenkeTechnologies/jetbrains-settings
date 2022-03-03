@@ -1,0 +1,29 @@
+<templateSet group="MenkeTechnologiesPy">
+  <template name="p" value="print(f&quot;\n_____________'$EXPR2$' = '{$EXPR$}'_____________\n&quot;)$END$" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="ACTION_SCRIPT" value="false" />
+      <option name="ASPECTJ" value="false" />
+      <option name="Bash" value="false" />
+      <option name="MXML" value="false" />
+      <option name="OGNL" value="false" />
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="c" value="puts(&quot;\n_____________'$EXPR2$' = '#{$EXPR$}'_____________\n\n&quot;)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="completeSmart()" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR2" expression="escapeString(EXPR)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
+  <template name="ie" value="if $1$:&#10;    $2$&#10;else:&#10;    $3$&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,14 @@
+<templateSet group="React">
+  <template name="ss" value="this.setState((state, props) =&gt;{ &#10;    return {&#10;        $END$&#10;    }&#10;});&#10;" description="Performs a shallow merge of nextState into current state" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rcf" value="const $TM_FILENAME_BASE$ = () =&gt; {&#10;      return (&#10;    &lt;div&gt;&#10;        $END$&#10;    &lt;/div&gt;&#10;  );&#10;}&#10;&#10;export default $TM_FILENAME_BASE$;" description="Creates a React component class with ES6 module system" toReformat="true" toShortenFQNames="true">
+    <variable name="TM_FILENAME_BASE" expression="capitalize(camelCase(fileNameWithoutExtension()))" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JS_TOP_LEVEL_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

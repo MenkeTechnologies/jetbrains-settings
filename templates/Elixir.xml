@@ -1,0 +1,8 @@
+<templateSet group="Elixir">
+  <template name="p" value="IO.puts($1$)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ELIXIR_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
