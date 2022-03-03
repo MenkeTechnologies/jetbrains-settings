@@ -4,14 +4,13 @@
     <property name="created">2019-01-25T20:11:33</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2022-03-01T22:33:36</property>
+    <property name="modified">2022-03-03T13:12:48</property>
     <property name="originalScheme">Darcula jm copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
     <option name="GUTTER_BACKGROUND" value="1b1b1b" />
