@@ -1,0 +1,35 @@
+<application>
+  <component name="StringManipulationState">
+    <option name="columnAlignerHistory">
+      <list>
+        <ColumnAlignerModel>
+          <option name="added" value="1645411938572" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1645412001239" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="=" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+      </list>
+    </option>
+    <option name="lastAction">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.align.AlignToColumnsAction" />
+        <option name="modelClass" value="osmedile.intellij.stringmanip.align.ColumnAlignerModel" />
+        <option name="modelData" value="&lt;ColumnAlignerModel&gt;&#10;  &lt;option name=&quot;added&quot; /&gt;&#10;  &lt;option name=&quot;alignBy&quot; value=&quot;SEPARATORS&quot; /&gt;&#10;  &lt;option name=&quot;columnSortOrder&quot; value=&quot;&quot; /&gt;&#10;  &lt;option name=&quot;keepLeadingIndent&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;maxSeparatorsPerLine&quot; value=&quot;&quot; /&gt;&#10;  &lt;option name=&quot;sbcCaseWorkaround&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;separators&quot;&gt;&#10;    &lt;list&gt;&#10;      &lt;option value=&quot;=&quot; /&gt;&#10;    &lt;/list&gt;&#10;  &lt;/option&gt;&#10;  &lt;option name=&quot;sequentialProcessing&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;skipFirstRow&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;sortOnly&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;sortSettings&quot;&gt;&#10;    &lt;SortSettings&gt;&#10;      &lt;option name=&quot;baseComparator&quot; value=&quot;NATURAL&quot; /&gt;&#10;      &lt;option name=&quot;blankLines&quot; value=&quot;REMOVE&quot; /&gt;&#10;      &lt;option name=&quot;collatorLanguageTag&quot; value=&quot;en_US&quot; /&gt;&#10;      &lt;option name=&quot;groupClosingLineRegex&quot; value=&quot;^[\s]*[)\]}],?[\s]*$&quot; /&gt;&#10;      &lt;option name=&quot;groupClosingLineRegexEnabled&quot; value=&quot;true&quot; /&gt;&#10;      &lt;option name=&quot;groupSeparatorRegex&quot; value=&quot;(^[\s]*$|^---.*$)&quot; /&gt;&#10;      &lt;option name=&quot;hierarchicalSort&quot; value=&quot;false&quot; /&gt;&#10;      &lt;option name=&quot;ignoreLeadingSpaces&quot; value=&quot;true&quot; /&gt;&#10;      &lt;option name=&quot;jsonSort&quot; value=&quot;false&quot; /&gt;&#10;      &lt;option name=&quot;levelRegex&quot; value=&quot;^[\s]+&quot; /&gt;&#10;      &lt;option name=&quot;preserveLeadingSpaces&quot; value=&quot;true&quot; /&gt;&#10;      &lt;option name=&quot;preserveTrailingSpecialCharacters&quot; value=&quot;false&quot; /&gt;&#10;      &lt;option name=&quot;sortByGroups&quot; value=&quot;false&quot; /&gt;&#10;      &lt;option name=&quot;sortType&quot; value=&quot;CASE_INSENSITIVE_A_Z&quot; /&gt;&#10;      &lt;option name=&quot;trailingChars&quot; value=&quot;,;&quot; /&gt;&#10;    &lt;/SortSettings&gt;&#10;  &lt;/option&gt;&#10;  &lt;option name=&quot;spaceAfterSeparator&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;spaceBeforeSeparator&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;trimLines&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;trimValues&quot; value=&quot;true&quot; /&gt;&#10;&lt;/ColumnAlignerModel&gt;" />
+      </UniversalActionModel>
+    </option>
+  </component>
+</application>
