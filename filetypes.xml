@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="pas" type="PLAIN_TEXT" />
+      <mapping ext="re" type="PLAIN_TEXT" />
       <mapping ext="dproj" type="XML" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="lpi" type="XML" />
