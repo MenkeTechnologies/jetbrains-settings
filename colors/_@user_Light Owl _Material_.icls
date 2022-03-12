@@ -4,7 +4,7 @@
     <property name="created">2022-02-14T23:31:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-02-14T23:31:54</property>
+    <property name="modified">2022-03-12T16:54:01</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -261,8 +261,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="2aa298" />
@@ -1209,22 +1207,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fbfbe4" />
+        <option name="BACKGROUND" value="f1f2f8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ecfbec" />
+        <option name="BACKGROUND" value="edf8f4" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fbecfb" />
+        <option name="BACKGROUND" value="f6f9f1" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="e6f9f9" />
+        <option name="BACKGROUND" value="fcf4ef" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="fcedec" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="fce8e9" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -1276,10 +1284,6 @@
         <option name="FOREGROUND" value="9373a5" />
       </value>
     </option>
-    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JAVA.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="bc5454" />
@@ -3842,7 +3846,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -3876,14 +3880,6 @@
         <option name="FOREGROUND" value="ff6363" />
       </value>
     </option>
-    <option name="org.elm.ARROW" baseAttributes="" />
-    <option name="org.elm.BRACES" baseAttributes="" />
-    <option name="org.elm.BRACKETS" baseAttributes="" />
-    <option name="org.elm.COMMA" baseAttributes="" />
-    <option name="org.elm.EQ" baseAttributes="" />
-    <option name="org.elm.OPERATOR" baseAttributes="" />
-    <option name="org.elm.PARENTHESIS" baseAttributes="" />
-    <option name="org.elm.PIPE" baseAttributes="" />
     <option name="org.rust.UNSAFE_CODE">
       <value />
     </option>

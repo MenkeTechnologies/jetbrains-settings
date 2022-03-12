@@ -3,7 +3,7 @@
     <property name="created">2022-02-14T23:31:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-02-14T23:31:54</property>
+    <property name="modified">2022-03-12T16:54:01</property>
     <property name="originalScheme">Cobalt</property>
   </metaInfo>
   <colors>
@@ -965,22 +965,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="123240" />
+        <option name="BACKGROUND" value="1e3c59" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="93244" />
+        <option name="BACKGROUND" value="1b4057" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="12294d" />
+        <option name="BACKGROUND" value="224155" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="6304c" />
+        <option name="BACKGROUND" value="263d53" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="263851" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="26344f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">

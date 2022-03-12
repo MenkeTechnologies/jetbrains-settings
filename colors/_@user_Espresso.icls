@@ -3,7 +3,7 @@
     <property name="created">2022-02-15T23:40:17</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-02-15T23:40:23</property>
+    <property name="modified">2022-03-12T16:54:01</property>
     <property name="originalScheme">Espresso</property>
   </metaInfo>
   <colors>
@@ -765,22 +765,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="39311f" />
+        <option name="BACKGROUND" value="413b3b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="303123" />
+        <option name="BACKGROUND" value="3f3f38" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="39282c" />
+        <option name="BACKGROUND" value="454036" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2d2f2b" />
+        <option name="BACKGROUND" value="4a3d35" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="4a3732" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="4a3330" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
