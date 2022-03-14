@@ -4,7 +4,7 @@
     <property name="created">2022-02-14T23:31:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-12T16:54:01</property>
+    <property name="modified">2022-03-12T16:39:13</property>
     <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -227,8 +227,8 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="Abstract class">
       <value>
         <option name="FOREGROUND" value="b58800" />
@@ -272,6 +272,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.FUNCTION_CALL" baseAttributes="" />
+    <option name="BASH.FUNCTION_DEF_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="BASH.INTERNAL_COMMAND" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_USE">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
@@ -356,7 +360,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="" />
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -1065,6 +1068,9 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1234,7 +1240,6 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="HOCON_SUBSTITUTION_SIGN" baseAttributes="" />
     <option name="HTML_CODE">
       <value />
     </option>
@@ -1325,7 +1330,7 @@
         <option name="FOREGROUND" value="586e75" />
       </value>
     </option>
-    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="" />
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
         <option name="BACKGROUND" value="f2eee4" />
@@ -1402,7 +1407,7 @@
         <option name="BACKGROUND" value="cac5b6" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -1610,7 +1615,7 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.PRIMITIVE">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -3170,14 +3175,6 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="PERL_ARRAY_BUILTIN" baseAttributes="" />
-    <option name="PERL_DQ_STRING" baseAttributes="" />
-    <option name="PERL_DX_STRING" baseAttributes="" />
-    <option name="PERL_EMBED_MARKER" baseAttributes="" />
-    <option name="PERL_GLOB" baseAttributes="" />
-    <option name="PERL_GLOB_BUILTIN" baseAttributes="" />
-    <option name="PERL_HASH" baseAttributes="" />
-    <option name="PERL_HASH_BUILTIN" baseAttributes="" />
     <option name="PERL_LABEL">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -3185,19 +3182,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PERL_NUMBER" baseAttributes="" />
-    <option name="PERL_PACKAGE" baseAttributes="" />
-    <option name="PERL_PACKAGE_CORE" baseAttributes="" />
-    <option name="PERL_PACKAGE_PRAGMA" baseAttributes="" />
-    <option name="PERL_REGEX_TOKEN" baseAttributes="" />
-    <option name="PERL_SCALAR" baseAttributes="" />
-    <option name="PERL_SCALAR_BUILTIN" baseAttributes="" />
-    <option name="PERL_SQ_STRING" baseAttributes="" />
-    <option name="PERL_SUB" baseAttributes="" />
-    <option name="PERL_SUB_BUILTIN" baseAttributes="" />
-    <option name="PERL_SUB_DEFINITION" baseAttributes="" />
-    <option name="PERL_VERSION" baseAttributes="" />
-    <option name="PERL_XSUB" baseAttributes="" />
     <option name="PHP.MODIFIER">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -4224,8 +4208,8 @@
         <option name="FOREGROUND" value="268bd2" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="STRUCT_LIKE">
       <value>
         <option name="FOREGROUND" value="b58900" />
@@ -4531,7 +4515,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value />
     </option>

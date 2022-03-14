@@ -3,7 +3,7 @@
     <property name="created">2022-02-15T23:40:17</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-03-12T16:54:01</property>
+    <property name="modified">2022-03-12T16:39:13</property>
     <property name="originalScheme">Dawn</property>
   </metaInfo>
   <colors>
@@ -1007,7 +1007,6 @@
         <option name="FOREGROUND" value="794938" />
       </value>
     </option>
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="" />
     <option name="PY.PREDEFINED_USAGE">
       <value>
         <option name="FOREGROUND" value="693a17" />
