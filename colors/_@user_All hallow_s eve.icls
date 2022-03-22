@@ -3,7 +3,7 @@
     <property name="created">2022-02-14T23:31:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-02-14T23:31:54</property>
+    <property name="modified">2022-03-22T18:16:39</property>
     <property name="originalScheme">All hallow's eve</property>
   </metaInfo>
   <colors>
@@ -717,7 +717,7 @@
         <option name="BACKGROUND" value="434242" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="66cc33" />
@@ -735,7 +735,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="HTML_TAG" baseAttributes="" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="EFFECT_COLOR" value="ffffff" />
@@ -763,22 +763,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="121205" />
+        <option name="BACKGROUND" value="1e1f23" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="91209" />
+        <option name="BACKGROUND" value="1b2320" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="120912" />
+        <option name="BACKGROUND" value="22241e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="61111" />
+        <option name="BACKGROUND" value="26201d" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="261b1b" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="261718" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -809,8 +819,6 @@
         <option name="FOREGROUND" value="66cc33" />
       </value>
     </option>
-    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="cc7833" />
@@ -879,8 +887,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
     <option name="JS.PARAMETER">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -907,7 +915,7 @@
         <option name="BACKGROUND" value="0" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="LESS_VARIABLE" baseAttributes="" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a6da0" />
@@ -1442,7 +1450,7 @@
         <option name="BACKGROUND" value="623062" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
     <option name="XML_ATTRIBUTE_VALUE">
       <value>
         <option name="FOREGROUND" value="66cc33" />
@@ -1458,7 +1466,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG" baseAttributes="" />
     <option name="XML_TAG_DATA">
       <value>
         <option name="FONT_TYPE" value="1" />

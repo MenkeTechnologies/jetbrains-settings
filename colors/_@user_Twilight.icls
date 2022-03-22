@@ -3,7 +3,7 @@
     <property name="created">2022-02-14T23:31:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-02-14T23:31:54</property>
+    <property name="modified">2022-03-22T18:16:39</property>
     <property name="originalScheme">Twilight</property>
   </metaInfo>
   <colors>
@@ -820,7 +820,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="HTML_TAG" baseAttributes="" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="9b703f" />
@@ -847,22 +847,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="252517" />
+        <option name="BACKGROUND" value="2f3034" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="1c251c" />
+        <option name="BACKGROUND" value="2c3431" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="251c25" />
+        <option name="BACKGROUND" value="33352f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="182323" />
+        <option name="BACKGROUND" value="37322e" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="372c2c" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="372829" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -1700,7 +1710,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
+    <option name="XML_TAG" baseAttributes="" />
     <option name="XML_TAG_DATA">
       <value>
         <option name="FONT_TYPE" value="1" />
