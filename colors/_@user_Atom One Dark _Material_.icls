@@ -4,7 +4,7 @@
     <property name="created">2022-03-12T16:38:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-18T20:59:50</property>
+    <property name="modified">2022-03-22T18:16:39</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -255,9 +255,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="2979ff" />
@@ -1115,11 +1115,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="" />
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
@@ -1211,22 +1211,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="373b35" />
+        <option name="BACKGROUND" value="40444f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2e3b39" />
+        <option name="BACKGROUND" value="3d484c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="373242" />
+        <option name="BACKGROUND" value="44494b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2b3a41" />
+        <option name="BACKGROUND" value="484649" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -3801,15 +3801,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="a6b2c0" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_DATA" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e06c75" />

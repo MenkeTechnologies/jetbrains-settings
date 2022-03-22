@@ -3,7 +3,7 @@
     <property name="created">2022-02-14T23:31:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-18T20:59:50</property>
+    <property name="modified">2022-03-22T18:16:39</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -225,7 +225,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
+    <option name="CSS.URL" baseAttributes="" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="aaff" />
@@ -521,7 +521,7 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="aaff" />
@@ -534,7 +534,7 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
-    <option name="HTML_TAG_NAME" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HTML_TAG_NAME" baseAttributes="" />
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="aaff" />
@@ -558,22 +558,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="242417" />
+        <option name="BACKGROUND" value="2e2f34" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="1b241c" />
+        <option name="BACKGROUND" value="2b3331" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="241b25" />
+        <option name="BACKGROUND" value="32342f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="172223" />
+        <option name="BACKGROUND" value="36312e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
@@ -873,7 +873,7 @@
         <option name="FOREGROUND" value="fa3232" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
     <option name="XML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="aaff" />
