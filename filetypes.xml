@@ -2,12 +2,10 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="pas" type="PLAIN_TEXT" />
-      <removed_mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="dproj" type="XML" />
       <mapping ext="gpx" type="XML" />
       <mapping ext="lpi" type="XML" />
       <mapping ext="xcscheme" type="XML" />
-      <mapping ext="txt" type="requirements.txt" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <removed_mapping ext="klib" approved="true" type="ARCHIVE" />
@@ -17,6 +15,7 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="rs" approved="true" type="Android RenderScript" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".analysis_options" approved="true" type="YAML" />
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="gemfile.lock" approved="true" type="PLAIN_TEXT" />
@@ -24,6 +23,7 @@
       <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="txt" type="requirements.txt" />
     </extensionMap>
   </component>
 </application>
