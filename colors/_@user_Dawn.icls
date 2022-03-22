@@ -3,7 +3,7 @@
     <property name="created">2022-02-15T23:40:17</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-03-12T16:39:13</property>
+    <property name="modified">2022-03-18T20:59:50</property>
     <property name="originalScheme">Dawn</property>
   </metaInfo>
   <colors>
@@ -641,22 +641,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="eff0f6" />
+        <option name="BACKGROUND" value="fafae3" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="ebf6f2" />
+        <option name="BACKGROUND" value="eafaea" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f4f7f0" />
+        <option name="BACKGROUND" value="faeafa" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="faf3ee" />
+        <option name="BACKGROUND" value="e5f7f7" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">

@@ -3,7 +3,7 @@
     <property name="created">2022-02-15T23:40:17</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2021.3.3.0.0</property>
-    <property name="modified">2022-03-12T16:39:13</property>
+    <property name="modified">2022-03-18T20:59:50</property>
     <property name="originalScheme">Espresso</property>
   </metaInfo>
   <colors>
@@ -684,8 +684,8 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HAML_FILTER" baseAttributes="DEFAULT_LABEL" />
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_FILTER" baseAttributes="" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -696,7 +696,7 @@
         <option name="BACKGROUND" value="503a2d" />
       </value>
     </option>
-    <option name="HAML_RUBY_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="HAML_RUBY_START" baseAttributes="" />
     <option name="HAML_STRING">
       <value>
         <option name="FOREGROUND" value="49b0a" />
@@ -707,14 +707,14 @@
         <option name="FOREGROUND" value="49b0a" />
       </value>
     </option>
-    <option name="HAML_TAG" baseAttributes="TEXT" />
+    <option name="HAML_TAG" baseAttributes="" />
     <option name="HAML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="43a8ed" />
       </value>
     </option>
-    <option name="HAML_TEXT" baseAttributes="TEXT" />
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_TEXT" baseAttributes="" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -765,22 +765,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="413b3b" />
+        <option name="BACKGROUND" value="39311f" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="3f3f38" />
+        <option name="BACKGROUND" value="303123" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="454036" />
+        <option name="BACKGROUND" value="39282c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="4a3d35" />
+        <option name="BACKGROUND" value="2d2f2b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
