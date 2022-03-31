@@ -6,6 +6,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="MenkeTechnologies" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.heroku.com" />
+          <option name="userName" value="menke.j@ufl.edu" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
