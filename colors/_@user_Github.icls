@@ -3,7 +3,7 @@
     <property name="created">2022-02-14T23:31:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-22T18:16:39</property>
+    <property name="modified">2022-03-31T12:44:55</property>
     <property name="originalScheme">Github</property>
   </metaInfo>
   <colors>
@@ -869,22 +869,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="f4f5fb" />
+        <option name="BACKGROUND" value="ffffe8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f0fbf7" />
+        <option name="BACKGROUND" value="f0fff0" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="f9fcf5" />
+        <option name="BACKGROUND" value="fff0ff" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="fff8f3" />
+        <option name="BACKGROUND" value="eafdfd" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
