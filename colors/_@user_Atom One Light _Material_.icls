@@ -4,7 +4,7 @@
     <property name="created">2022-02-14T23:31:01</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.3.2.0.0</property>
-    <property name="modified">2022-03-22T18:16:39</property>
+    <property name="modified">2022-04-01T23:05:26</property>
     <property name="originalScheme">Atom One Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -209,7 +209,7 @@
         <option name="FOREGROUND" value="50a14e" />
       </value>
     </option>
-    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4078f2" />
@@ -491,7 +491,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a626a4" />
@@ -516,11 +516,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
+    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -848,9 +848,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="" />
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e4564a" />
@@ -1137,7 +1137,7 @@
         <option name="FOREGROUND" value="e4564a" />
       </value>
     </option>
-    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="" />
+    <option name="HTTP_REQUEST_MULTIPART_BOUNDARY" baseAttributes="DEFAULT_DOC_COMMENT_TAG_VALUE" />
     <option name="HTTP_REQUEST_PARAMETER_NAME">
       <value>
         <option name="FOREGROUND" value="c18401" />
@@ -1291,7 +1291,7 @@
         <option name="BACKGROUND" value="eaeaeb" />
       </value>
     </option>
-    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="INSTANCE_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="IVAR">
       <value>
         <option name="FOREGROUND" value="184bc" />
@@ -1380,7 +1380,7 @@
         <option name="FOREGROUND" value="986801" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.PROTOTYPE">
       <value>
         <option name="FOREGROUND" value="e4564a" />
@@ -3648,8 +3648,8 @@
         <option name="FOREGROUND" value="50a14e" />
       </value>
     </option>
-    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="" />
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_FIELD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_FIELD" />
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="Scala Predefined types">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -3745,7 +3745,7 @@
         <option name="FOREGROUND" value="50a14f" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="526fff" />
@@ -3806,7 +3806,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="383a42" />
@@ -3834,7 +3834,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="e4564a" />
