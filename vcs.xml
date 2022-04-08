@@ -6,6 +6,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="MenkeTechnologies" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.heroku.com" />
+          <option name="userName" value="menke.j@ufl.edu" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
@@ -16,11 +20,11 @@
         <option value="Default.Subject" />
         <option value="Default.Author" />
         <option value="Default.Date" />
-        <option value="Space.CommitStatus" />
       </list>
     </option>
   </component>
   <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
     <option name="SHOW_EDITOR_PREVIEW_ON_DOUBLE_CLICK" value="false" />
   </component>
 </application>
