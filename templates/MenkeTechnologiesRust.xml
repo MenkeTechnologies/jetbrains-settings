@@ -6,37 +6,22 @@
       <option name="ANY_OPENAPI_JSON_FILE" value="false" />
       <option name="ANY_OPENAPI_YAML_FILE" value="false" />
       <option name="ASPECTJ" value="false" />
-      <option name="CPT" value="false" />
-      <option name="CSS" value="false" />
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="CoffeeScript" value="false" />
       <option name="Django" value="false" />
-      <option name="ECMAScript6" value="false" />
       <option name="GENERAL_JSON_FILE" value="false" />
       <option name="GENERAL_YAML_FILE" value="false" />
       <option name="GROOVY" value="false" />
       <option name="GSP" value="false" />
       <option name="HAML" value="false" />
-      <option name="HTML" value="false" />
       <option name="JAVA_CODE" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
       <option name="JSP" value="false" />
       <option name="KOTLIN" value="false" />
-      <option name="KUBERNETES_RESOURCE" value="false" />
       <option name="MAVEN" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="PERL5" value="false" />
-      <option name="POD" value="false" />
-      <option name="Python" value="false" />
       <option name="REASON_CODE" value="false" />
-      <option name="REQUEST" value="false" />
+      <option name="RUST_STATEMENT" value="true" />
       <option name="SCALA" value="false" />
       <option name="SHELL_SCRIPT" value="false" />
-      <option name="SQL" value="false" />
       <option name="SSP" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="XML" value="false" />
       <option name="XML_ATTRIBUTE" value="false" />
       <option name="sbt" value="false" />
     </context>
@@ -45,7 +30,7 @@
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="RUST_FILE" value="true" />
+      <option name="RUST_STATEMENT" value="true" />
     </context>
   </template>
   <template name="l" value="log::info!(&quot;_____________'$EXPR2$' = '{}'_____________&quot;, $EXPR$);$END$" description="li" toReformat="true" toShortenFQNames="true">
@@ -66,7 +51,7 @@
     <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="RUST_FILE" value="true" />
+      <option name="RUST_STATEMENT" value="true" />
     </context>
   </template>
   <template name="ie" value="if $1$ {&#10;    $2$&#10;} else {&#10;    $3$&#10;}" description="" toReformat="false" toShortenFQNames="true">
@@ -74,7 +59,7 @@
     <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="3" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="RUST_FILE" value="true" />
+      <option name="RUST_STATEMENT" value="true" />
     </context>
   </template>
   <template name="iee" value="if $1$ {&#10;    $2$&#10;} else if $3$ {&#10;    $4$&#10;} else {&#10;    $5$&#10;}" description="" toReformat="false" toShortenFQNames="true">
@@ -84,7 +69,7 @@
     <variable name="4" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="5" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="RUST_FILE" value="true" />
+      <option name="RUST_STATEMENT" value="true" />
     </context>
   </template>
   <template name="mo" value="match $1$ {&#10;    Some(success) =&gt; {&#10;        $2$;&#10;    }&#10;    None =&gt; {&#10;        None;&#10;    }&#10;}" description="match" toReformat="false" toShortenFQNames="true">
