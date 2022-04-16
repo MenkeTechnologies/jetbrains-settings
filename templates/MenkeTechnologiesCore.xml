@@ -10,6 +10,8 @@
       <option name="KOTLIN" value="true" />
       <option name="PERL5" value="true" />
       <option name="SCALA" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
     </context>
   </template>
   <template name="i" value="if ($var$) {&#10;    $end$&#10;}" description="" toReformat="false" toShortenFQNames="true">
@@ -23,6 +25,8 @@
       <option name="PERL5" value="true" />
       <option name="SCALA" value="true" />
       <option name="TypeScript" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
     </context>
   </template>
   <template name="s" value="System.out.println(&quot;\n_____________'$EXPR2$' = '&quot; + $EXPR$ + &quot;'_____________\n&quot;);" description="System.out.println()" toReformat="false" toShortenFQNames="true">
@@ -106,6 +110,8 @@
       <option name="KOTLIN" value="true" />
       <option name="PERL5" value="true" />
       <option name="SCALA" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
     </context>
   </template>
   <template name="w" value="while ($1$) {&#10;    $2$&#10;}" description="while" toReformat="false" toShortenFQNames="true">
@@ -204,6 +210,8 @@
     <context>
       <option name="GROOVY" value="true" />
       <option name="JAVA_CODE" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
     </context>
   </template>
   <template name="ff" value="for (int j = 0; j &lt; $end$; ++j) {&#10;    $body$&#10;}" description="for loop inner" toReformat="false" toShortenFQNames="true">
@@ -212,6 +220,8 @@
     <context>
       <option name="GROOVY" value="true" />
       <option name="JAVA_CODE" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
     </context>
   </template>
   <template name="so" value="System.out.println($END$);&#10;&#10;" description="" toReformat="true" toShortenFQNames="true">
