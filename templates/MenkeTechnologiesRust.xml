@@ -4,7 +4,6 @@
     <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ASPECTJ" value="false" />
-      <option name="Django" value="false" />
       <option name="RUST_STATEMENT" value="true" />
     </context>
   </template>
