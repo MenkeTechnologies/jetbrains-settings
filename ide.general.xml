@@ -3,7 +3,6 @@
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="1" />
     <option name="processCloseConfirmation" value="TERMINATE" />
-    <option name="reopenLastProject" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
@@ -12,5 +11,6 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
