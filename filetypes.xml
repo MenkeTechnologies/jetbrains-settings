@@ -15,6 +15,7 @@
       <removed_mapping ext="nim" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="pas" approved="true" type="Pascal" />
       <removed_mapping ext="pl" approved="true" type="Prolog resource" />
+      <removed_mapping ext="plist" approved="true" type="AUTO_DETECTED" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="qrc" approved="true" type="XML" />
       <removed_mapping ext="re" approved="true" type="PLAIN_TEXT" />
