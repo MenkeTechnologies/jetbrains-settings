@@ -4,10 +4,8 @@
     <extensionMap>
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="pas" type="PLAIN_TEXT" />
-      <removed_mapping ext="plist" type="PLIST" />
       <mapping ext="dproj" type="XML" />
       <mapping ext="gpx" type="XML" />
-      <mapping ext="plist" type="XML" />
       <mapping ext="lpi" type="XML" />
       <mapping ext="xcscheme" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
