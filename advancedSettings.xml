@@ -2,7 +2,7 @@
   <component name="AdvancedSettings">
     <option name="settings">
       <map>
-        <entry key="compiler.automake.allow.when.app.running" value="true" />
+        <entry key="cidr.test.framework.showIndexingAsTask" value="false" />
         <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="ide.suppress.double.click.handler" value="true" />
       </map>
