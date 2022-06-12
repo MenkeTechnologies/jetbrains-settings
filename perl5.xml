@@ -1,6 +1,6 @@
 <application>
   <component name="Perl5ApplicationSettings">
-    <option name="pluginVersion" value="2022.1" />
+    <option name="pluginVersion" value="2022.1.1" />
     <option name="popupShown" value="true" />
   </component>
   <component name="PerlInterpreters">
@@ -18,6 +18,9 @@
             <root url="file:///usr/local/Cellar/perl/5.28.1/lib/perl5/5.28.1" type="simple" />
           </root>
         </classPath>
+        <libFile>
+          <root type="composite" />
+        </libFile>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -42,6 +45,9 @@
             <root url="file:///opt/homebrew/Cellar/perl/5.34.0/lib/perl5/5.34.0" type="simple" />
           </root>
         </classPath>
+        <libFile>
+          <root type="composite" />
+        </libFile>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
