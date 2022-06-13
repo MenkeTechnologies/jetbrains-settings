@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping ext="lgt" type="Logtalk resource" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="pas" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="XML" />
       <mapping ext="dproj" type="XML" />
       <mapping ext="gpx" type="XML" />
-      <mapping ext="plist" type="XML" />
       <mapping ext="lpi" type="XML" />
       <mapping ext="xcscheme" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
@@ -26,7 +27,6 @@
       <removed_mapping pattern=".rvmrc" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="gemfile.lock" approved="true" type="PLAIN_TEXT" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
