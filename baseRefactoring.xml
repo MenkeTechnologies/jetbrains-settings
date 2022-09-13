@@ -13,5 +13,6 @@
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
     <option name="INTRODUCE_PARAMETER_CREATE_FINALS" value="false" />
     <option name="INTRODUCE_CONSTANT_REPLACE_ALL" value="true" />
+    <option name="RENAME_ACCESSORS" value="false" />
   </component>
 </application>

@@ -121,6 +121,8 @@
       <option name="GROOVY" value="true" />
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_SCRIPT" value="true" />
+      <option name="c" value="true" />
+      <option name="cpp" value="true" />
     </context>
   </template>
   <template name="inst" value="if ($EXPR$ instanceof $TYPE$) {&#10;  $TYPE$ $VAR1$ = ($TYPE$)$EXPR$;&#10;  $END$&#10;}" description="Checks object type with instanceof and down-casts it" toReformat="true" toShortenFQNames="true">
