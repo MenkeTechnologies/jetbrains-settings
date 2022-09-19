@@ -11,6 +11,6 @@
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
-    <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
+    <entry key="ide.editor.tab.selection.animation" value="true" />
   </component>
 </application>
