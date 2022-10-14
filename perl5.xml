@@ -1,6 +1,6 @@
 <application>
   <component name="Perl5ApplicationSettings">
-    <option name="pluginVersion" value="222.2964.55-EAP-SNAPSHOT" />
+    <option name="pluginVersion" value="2022.2.2" />
     <option name="popupShown" value="true" />
   </component>
   <component name="PerlInterpreters">
@@ -18,9 +18,6 @@
             <root url="file:///opt/homebrew/opt/perl/lib/perl5/5.36" type="simple" />
           </root>
         </classPath>
-        <libFile>
-          <root type="composite" />
-        </libFile>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
