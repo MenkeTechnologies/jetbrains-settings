@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="config" type="Erlang Terms" />
-      <removed_mapping ext="config" type="LOMBOK_CONFIG" />
       <mapping ext="dproj" type="XML" />
       <mapping ext="lpi" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
