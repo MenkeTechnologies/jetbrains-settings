@@ -1,9 +1,9 @@
 <scheme name="_@user_Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2022-12-05T09:19:23</property>
-    <property name="ide">CLion</property>
+    <property name="created">2022-12-08T23:24:11</property>
+    <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-12-05T09:19:30</property>
+    <property name="modified">2022-12-08T23:24:28</property>
     <property name="originalScheme">Light</property>
   </metaInfo>
   <colors>
