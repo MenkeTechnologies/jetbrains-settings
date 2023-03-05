@@ -1,7 +1,6 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
-    <option name="confirmOpenNewProject2" value="1" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
@@ -10,8 +9,5 @@
     <entry key="ide.new.editor.tabs.vertical.borders" value="true" />
     <entry key="editor.focus.mode.color.light" value="474747" />
     <entry key="editor.focus.mode.color.dark" value="474747" />
-    <entry key="external.system.auto.import.disabled" value="true" />
-    <entry key="ide.text.editor.with.preview.show.floating.toolbar" value="false" />
-    <entry key="ide.experimental.ui" value="false" />
   </component>
 </application>
