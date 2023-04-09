@@ -1,6 +1,5 @@
 <application>
   <component name="RainbowSettings">
-    <option name="indentGuidesOptions" value="Only selected indent guide" />
-    <option name="version" value="2023.2.6" />
+    <option name="version" value="6.25" />
   </component>
 </application>
