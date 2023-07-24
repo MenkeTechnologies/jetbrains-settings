@@ -1,8 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="isWizardShown" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="-11ed4807:184f2a4b178:-8000" />
-    <option name="version" value="8.3.2" />
+    <option name="userId" value="-385c3441:1850508d06b:-8000" />
+    <option name="version" value="8.6.4" />
   </component>
 </application>
