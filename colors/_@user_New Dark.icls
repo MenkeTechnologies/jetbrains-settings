@@ -1,9 +1,9 @@
 <scheme name="_@user_New Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2022-12-08T23:24:11</property>
-    <property name="ide">WebStorm</property>
+    <property name="created">2022-12-08T11:49:49</property>
+    <property name="ide">idea</property>
     <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-12-08T23:24:28</property>
+    <property name="modified">2022-12-08T11:50:00</property>
     <property name="originalScheme">New Dark</property>
   </metaInfo>
   <colors>
@@ -56,7 +56,7 @@
         <option name="FOREGROUND" value="b189f5" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="FOREGROUND" value="fa5762" />
@@ -473,7 +473,7 @@
         <option name="ERROR_STRIPE_COLOR" value="72cfd6" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b189f5" />
@@ -511,7 +511,7 @@
         <option name="ERROR_STRIPE_COLOR" value="669b6a" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="" />
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
     <option name="TYPO">
       <value>
         <option name="EFFECT_COLOR" value="7ec482" />

@@ -1,11 +1,11 @@
 <scheme name="Material jm" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-01-25T20:11:33</property>
+    <property name="created">2023-07-28T02:22:01</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.3.3.0.0</property>
-    <property name="modified">2023-07-23T14:10:44</property>
-    <property name="originalScheme">Darcula jm copy</property>
+    <property name="ideVersion">2023.2.0.0</property>
+    <property name="modified">2023-07-28T02:22:18</property>
+    <property name="originalScheme">Material jm</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -338,6 +338,11 @@
     <option name="JS.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="b5cea8" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_LABEL">
