@@ -1,0 +1,25 @@
+<application>
+  <component name="VimJumpsSettings">
+    <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/untitled/main.cpp" />
+    <jump line="6" column="0" filename="$USER_HOME$/CLionProjects/untitled/main.cpp" />
+    <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" />
+    <jump line="30" column="7" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1693001865678">
+        <mark key="&quot;" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/untitled/main.cpp" timestamp="1693001848458">
+        <mark key="&quot;" line="6" column="0" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">dHJ1ZQ==</show-last>
+    </search>
+  </component>
+</application>

@@ -1,0 +1,43 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value=".SF NS Text" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFontsWasMigrated" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "appcds.runOnSecondStart": "CL-232.9559.58-7faf750312a02ecae304795c8c2369cc76a0dcf463a93e1fab3aff2a430a5258",
+    "bundled.plugins.list.saved.version": "CL-232.9559.58",
+    "clion.initialConfigPerformed": "true",
+    "evlsprt3.232": "26",
+    "experimental.ui.first.promotion.localdate": "2023-08-25",
+    "file.gist.reindex.count": "5",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "ideavim.statistics.timestamp": "1693001808324",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "Material jm",
+    "registry.to.advanced.settings.migration.build": "CL-232.9559.58",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "5.1.3"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.kubernetes.api.settings.KubeConfigFileDetector",
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.perl5.lang.perl.fileTypes.PerlFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
