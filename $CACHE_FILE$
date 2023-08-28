@@ -2,1312 +2,1312 @@
   <component name="JSRemoteModulesRegistry">
     <modules />
   </component>
-  <component name="PluginAdvertiserExtensions"><![CDATA[{
-  "plugins": {
-    "*.cr": {
-      "pluginIdString": "net.kenro.ji.jin.intellij.crystal-2",
-      "nullablePluginName": "Crystal language support updated for v2018.2 onwards"
-    },
-    "*.logtalk": {
-      "pluginIdString": "org.logtalk",
-      "nullablePluginName": "Logtalk"
-    },
-    "*.prolog": {
-      "pluginIdString": "org.logtalk",
-      "nullablePluginName": "Logtalk"
-    },
-    "*.bat": {
-      "pluginIdString": "CMD Support",
-      "nullablePluginName": "CMD Support"
-    },
-    "*.cmd": {
-      "pluginIdString": "CMD Support",
-      "nullablePluginName": "CMD Support"
-    },
-    "*.erl": {
-      "pluginIdString": "org.jetbrains.erlang",
-      "nullablePluginName": "Erlang"
-    },
-    "*.hrl": {
-      "pluginIdString": "org.jetbrains.erlang",
-      "nullablePluginName": "Erlang"
-    },
-    "*.app": {
-      "pluginIdString": "org.jetbrains.erlang",
-      "nullablePluginName": "Erlang"
-    },
-    "*.app.src": {
-      "pluginIdString": "org.jetbrains.erlang",
-      "nullablePluginName": "Erlang"
-    },
-    "*.config": {
-      "pluginIdString": "org.jetbrains.erlang",
-      "nullablePluginName": "Erlang"
-    },
-    "*.routes": {
-      "pluginIdString": "org.jetbrains.erlang",
-      "nullablePluginName": "Erlang"
-    },
-    "*.rel": {
-      "pluginIdString": "org.jetbrains.erlang",
-      "nullablePluginName": "Erlang"
-    },
-    "*.c": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.inl": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.ixx": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.icc": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.cuh": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.mm": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.tpp": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.hxx": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.hh": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.h++": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.cppm": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.cxxm": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.cpp": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.h": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.hp": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.cc": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.i": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.ino": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.mxx": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.m": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.cp": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.cxx": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.tcc": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.c++": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.cu": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.hpp": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.c++m": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.pch": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.ccm": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.ii": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.ipp": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.zip": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.egg": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.ear": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.ane": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.war": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.jar": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.apk": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.swc": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.txt": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.log": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.pptx": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.xlsx": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.pdf": {
-      "pluginIdString": "com.jetbrains.restClient",
-      "nullablePluginName": "HTTP Client",
-      "isBundled": true
-    },
-    "*.ppt": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.vsd": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.doc": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.mdb": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.hlp": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.odt": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.xls": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.docx": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.iws": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.iml": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.ipr": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.patch": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.diff": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.ignore": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.rnc": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.htm": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.ng": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.html": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.shtm": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.shtml": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.sht": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.xhtml": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.mod": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.dtd": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.ent": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.elt": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.fxml": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.jrxml": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.ant": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.xsd": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.rng": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.tld": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.jhm": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.xul": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.xsl": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.wsdl": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.xml": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.jnlp": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.xslt": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.regexp": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.dic": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "bowerrc": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "jest.config": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    ".prettierrc": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    ".stylelintrc": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    ".eslintrc": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.har": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.jsb2": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.json": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.jsb3": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    ".babelrc": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.json5": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "devcontainer.json": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.ndjson": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.jsonlines": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.ldjson": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    "*.jsonl": {
-      "pluginIdString": "com.intellij",
-      "nullablePluginName": "IDEA CORE",
-      "isBundled": true
-    },
-    ".clang-tidy": {
-      "pluginIdString": "org.jetbrains.plugins.yaml",
-      "nullablePluginName": "YAML",
-      "isBundled": true
-    },
-    ".clang-format": {
-      "pluginIdString": "org.jetbrains.plugins.yaml",
-      "nullablePluginName": "YAML",
-      "isBundled": true
-    },
-    "_clang-format": {
-      "pluginIdString": "org.jetbrains.plugins.yaml",
-      "nullablePluginName": "YAML",
-      "isBundled": true
-    },
-    "*.yml": {
-      "pluginIdString": "org.jetbrains.plugins.yaml",
-      "nullablePluginName": "YAML",
-      "isBundled": true
-    },
-    "*.apinotes": {
-      "pluginIdString": "org.jetbrains.plugins.yaml",
-      "nullablePluginName": "YAML",
-      "isBundled": true
-    },
-    "*.yaml": {
-      "pluginIdString": "org.jetbrains.plugins.yaml",
-      "nullablePluginName": "YAML",
-      "isBundled": true
-    },
-    "*.ui": {
-      "pluginIdString": "com.intellij.qt",
-      "nullablePluginName": "Qt",
-      "isBundled": true
-    },
-    "*.qrc": {
-      "pluginIdString": "com.intellij.qt",
-      "nullablePluginName": "Qt",
-      "isBundled": true
-    },
-    "*.hgignore": {
-      "pluginIdString": "hg4idea",
-      "nullablePluginName": "Mercurial",
-      "isBundled": true
-    },
-    "*.uml": {
-      "pluginIdString": "com.intellij.diagram",
-      "nullablePluginName": "Diagrams",
-      "isBundled": true
-    },
-    "*.tsv": {
-      "pluginIdString": "intellij.grid.core.impl",
-      "nullablePluginName": "Data Editor Support Core",
-      "isBundled": true
-    },
-    "*.csv": {
-      "pluginIdString": "intellij.grid.core.impl",
-      "nullablePluginName": "Data Editor Support Core",
-      "isBundled": true
-    },
-    "Gopkg.lock": {
-      "pluginIdString": "org.toml.lang",
-      "nullablePluginName": "Toml",
-      "isBundled": true
-    },
-    "Pipfile": {
-      "pluginIdString": "org.toml.lang",
-      "nullablePluginName": "Toml",
-      "isBundled": true
-    },
-    "Cargo.toml.orig": {
-      "pluginIdString": "org.toml.lang",
-      "nullablePluginName": "Toml",
-      "isBundled": true
-    },
-    "*.toml": {
-      "pluginIdString": "org.toml.lang",
-      "nullablePluginName": "Toml",
-      "isBundled": true
-    },
-    "Cargo.lock": {
-      "pluginIdString": "org.toml.lang",
-      "nullablePluginName": "Toml",
-      "isBundled": true
-    },
-    "poetry.lock": {
-      "pluginIdString": "org.toml.lang",
-      "nullablePluginName": "Toml",
-      "isBundled": true
-    },
-    "*.rs": {
-      "pluginIdString": "org.rust.lang",
-      "nullablePluginName": "Rust"
-    },
-    "*.ijperf": {
-      "pluginIdString": "com.jetbrains.performancePlugin",
-      "nullablePluginName": "Performance Testing",
-      "isBundled": true
-    },
-    "*.pod": {
-      "pluginIdString": "com.perl5",
-      "nullablePluginName": "Perl"
-    },
-    "*.cgi": {
-      "pluginIdString": "com.perl5",
-      "nullablePluginName": "Perl"
-    },
-    "*.ph": {
-      "pluginIdString": "com.perl5",
-      "nullablePluginName": "Perl"
-    },
-    "*.al": {
-      "pluginIdString": "com.perl5",
-      "nullablePluginName": "Perl"
-    },
-    "*.pl": {
-      "pluginIdString": "com.perl5",
-      "nullablePluginName": "Perl"
-    },
-    "*.pm": {
-      "pluginIdString": "com.perl5",
-      "nullablePluginName": "Perl"
-    },
-    "cpanfile": {
-      "pluginIdString": "com.perl5",
-      "nullablePluginName": "Perl"
-    },
-    "*.t": {
-      "pluginIdString": "com.perl5",
-      "nullablePluginName": "Perl"
-    },
-    "*.xs": {
-      "pluginIdString": "com.perl5",
-      "nullablePluginName": "Perl"
-    },
-    "*.jpg": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.psd": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.xbm": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.tiff": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.bigtiff": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.bmp": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.pcx": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.gif": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.png": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.ppm": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.rgbe": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.icns": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.pnm": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.tga": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.tif": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.ico": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.xpm": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.pgm": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.dcx": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.jpeg": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.wbmp": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.pbm": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.pam": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.jbig2": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.svg": {
-      "pluginIdString": "com.intellij.platform.images",
-      "nullablePluginName": "Images",
-      "isBundled": true
-    },
-    "*.css": {
-      "pluginIdString": "com.intellij.css",
-      "nullablePluginName": "CSS",
-      "isBundled": true
-    },
-    "*.less": {
-      "pluginIdString": "org.jetbrains.plugins.less",
-      "nullablePluginName": "Less",
-      "isBundled": true
-    },
-    "*.pcss": {
-      "pluginIdString": "org.intellij.plugins.postcss",
-      "nullablePluginName": "PostCSS",
-      "isBundled": true
-    },
-    "*.sass": {
-      "pluginIdString": "org.jetbrains.plugins.sass",
-      "nullablePluginName": "Sass",
-      "isBundled": true
-    },
-    "*.scss": {
-      "pluginIdString": "org.jetbrains.plugins.sass",
-      "nullablePluginName": "Sass",
-      "isBundled": true
-    },
-    "*.md": {
-      "pluginIdString": "org.intellij.plugins.markdown",
-      "nullablePluginName": "Markdown",
-      "isBundled": true
-    },
-    "*.markdown": {
-      "pluginIdString": "org.intellij.plugins.markdown",
-      "nullablePluginName": "Markdown",
-      "isBundled": true
-    },
-    "GNUmakefile": {
-      "pluginIdString": "name.kropp.intellij.makefile",
-      "nullablePluginName": "Makefile Language",
-      "isBundled": true
-    },
-    "makefile": {
-      "pluginIdString": "name.kropp.intellij.makefile",
-      "nullablePluginName": "Makefile Language",
-      "isBundled": true
-    },
-    "*.mk": {
-      "pluginIdString": "name.kropp.intellij.makefile",
-      "nullablePluginName": "Makefile Language",
-      "isBundled": true
-    },
-    "*.conf": {
-      "pluginIdString": "org.jetbrains.plugins.hocon",
-      "nullablePluginName": "HOCON"
-    },
-    "*.rest": {
-      "pluginIdString": "com.jetbrains.restClient",
-      "nullablePluginName": "HTTP Client",
-      "isBundled": true
-    },
-    "*.http": {
-      "pluginIdString": "com.jetbrains.restClient",
-      "nullablePluginName": "HTTP Client",
-      "isBundled": true
-    },
-    "http-client.cookies": {
-      "pluginIdString": "com.jetbrains.restClient",
-      "nullablePluginName": "HTTP Client",
-      "isBundled": true
-    },
-    "*.xpath": {
-      "pluginIdString": "XPathView",
-      "nullablePluginName": "XPathView + XSLT",
-      "isBundled": true
-    },
-    "*.xpath2": {
-      "pluginIdString": "XPathView",
-      "nullablePluginName": "XPathView + XSLT",
-      "isBundled": true
-    },
-    "*.jql": {
-      "pluginIdString": "com.intellij.tasks",
-      "nullablePluginName": "Task Management",
-      "isBundled": true
-    },
-    "Dockerfile": {
-      "pluginIdString": "Docker",
-      "nullablePluginName": "Docker",
-      "isBundled": true
-    },
-    "Dockerfile.fast-jar": {
-      "pluginIdString": "Docker",
-      "nullablePluginName": "Docker",
-      "isBundled": true
-    },
-    "Dockerfile.jvm": {
-      "pluginIdString": "Docker",
-      "nullablePluginName": "Docker",
-      "isBundled": true
-    },
-    "Dockerfile.native-micro": {
-      "pluginIdString": "Docker",
-      "nullablePluginName": "Docker",
-      "isBundled": true
-    },
-    "Dockerfile.native": {
-      "pluginIdString": "Docker",
-      "nullablePluginName": "Docker",
-      "isBundled": true
-    },
-    "Dockerfile.legacy-jar": {
-      "pluginIdString": "Docker",
-      "nullablePluginName": "Docker",
-      "isBundled": true
-    },
-    "*.dockerfile": {
-      "pluginIdString": "Docker",
-      "nullablePluginName": "Docker",
-      "isBundled": true
-    },
-    "Dockerfile.jlink": {
-      "pluginIdString": "Docker",
-      "nullablePluginName": "Docker",
-      "isBundled": true
-    },
-    "Dockerfile.native-distroless": {
-      "pluginIdString": "Docker",
-      "nullablePluginName": "Docker",
-      "isBundled": true
-    },
-    "*.dockerignore": {
-      "pluginIdString": "Docker",
-      "nullablePluginName": "Docker",
-      "isBundled": true
-    },
-    "*.snap": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.js.flow": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.js": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.cjs": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.as": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.js2": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.es": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.ats": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.cts": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.mts": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.ts": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.tsx": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.mjs": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.es6": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.jsx": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "jshint.json": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.jshintrc": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "yarn.lock": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "tsconfig.app.json": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "tsconfig.spec.json": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "tsconfig.json": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "tsconfig.e2e.json": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "tsconfig.editor.json": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "tsconfig.test.json": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "tsconfig.lib.json": {
-      "pluginIdString": "JavaScript",
-      "nullablePluginName": "JavaScript and TypeScript",
-      "isBundled": true
-    },
-    "*.js.map": {
-      "pluginIdString": "JavaScriptDebugger",
-      "nullablePluginName": "JavaScript Debugger",
-      "isBundled": true
-    },
-    "*.prc": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.vw": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.pkb": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.pls": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.tps": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.tpb": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.trg": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.pck": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.pks": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.fnc": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.ddl": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.sql": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.cql": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.hql": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.redis": {
-      "pluginIdString": "com.intellij.database",
-      "nullablePluginName": "Database Tools and SQL",
-      "isBundled": true
-    },
-    "*.vue": {
-      "pluginIdString": "org.jetbrains.plugins.vue",
-      "nullablePluginName": "Vue.js",
-      "isBundled": true
-    },
-    "*.qml": {
-      "pluginIdString": "com.intellij.lang.qml",
-      "nullablePluginName": "QML",
-      "isBundled": true
-    },
-    "*.qmltypes": {
-      "pluginIdString": "com.intellij.lang.qml",
-      "nullablePluginName": "QML",
-      "isBundled": true
-    },
-    "*.gdbcommandsfiletypeextension": {
-      "pluginIdString": "com.intellij.nativeDebug",
-      "nullablePluginName": "Native Debugging Support",
-      "isBundled": true
-    },
-    "*.lldbcommandsfiletypeextension": {
-      "pluginIdString": "com.intellij.nativeDebug",
-      "nullablePluginName": "Native Debugging Support",
-      "isBundled": true
-    },
-    "*.natvis": {
-      "pluginIdString": "com.intellij.nativeDebug",
-      "nullablePluginName": "Native Debugging Support",
-      "isBundled": true
-    },
-    "*.asm": {
-      "pluginIdString": "com.intellij.cidr.base",
-      "nullablePluginName": "CIDR Base",
-      "isBundled": true
-    },
-    "module.map": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.modulemap": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.hmap": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.doxygen": {
-      "pluginIdString": "com.intellij.cidr.lang",
-      "nullablePluginName": "C/C++ Language Support",
-      "isBundled": true
-    },
-    "*.sdl": {
-      "pluginIdString": "net.masterthought.dlanguage",
-      "nullablePluginName": "D Language"
-    },
-    "*.d": {
-      "pluginIdString": "net.masterthought.dlanguage",
-      "nullablePluginName": "D Language"
-    },
-    "*.di": {
-      "pluginIdString": "net.masterthought.dlanguage",
-      "nullablePluginName": "D Language"
-    },
-    "*.cmake": {
-      "pluginIdString": "com.intellij.clion",
-      "nullablePluginName": "CLion IDE",
-      "isBundled": true
-    },
-    "CMakeLists.txt": {
-      "pluginIdString": "com.intellij.clion",
-      "nullablePluginName": "CLion IDE",
-      "isBundled": true
-    },
-    "CMakeCache.txt": {
-      "pluginIdString": "com.intellij.clion",
-      "nullablePluginName": "CLion IDE",
-      "isBundled": true
-    },
-    "*.py": {
-      "pluginIdString": "PythonCore",
-      "nullablePluginName": "Python Community Edition",
-      "isBundled": true
-    },
-    "*.pyw": {
-      "pluginIdString": "PythonCore",
-      "nullablePluginName": "Python Community Edition",
-      "isBundled": true
-    },
-    "*.pyi": {
-      "pluginIdString": "PythonCore",
-      "nullablePluginName": "Python Community Edition",
-      "isBundled": true
-    },
-    "*.f95": {
-      "pluginIdString": "org.jetbrains.fortran",
-      "nullablePluginName": "Fortran"
-    },
-    "*.f03": {
-      "pluginIdString": "org.jetbrains.fortran",
-      "nullablePluginName": "Fortran"
-    },
-    "*.f90": {
-      "pluginIdString": "org.jetbrains.fortran",
-      "nullablePluginName": "Fortran"
-    },
-    "*.f08": {
-      "pluginIdString": "org.jetbrains.fortran",
-      "nullablePluginName": "Fortran"
-    },
-    "*.f": {
-      "pluginIdString": "org.jetbrains.fortran",
-      "nullablePluginName": "Fortran"
-    },
-    "*.for": {
-      "pluginIdString": "org.jetbrains.fortran",
-      "nullablePluginName": "Fortran"
-    },
-    "*.ioc": {
-      "pluginIdString": "com.intellij.clion.embedded",
-      "nullablePluginName": "Embedded Development Support",
-      "isBundled": true
-    },
-    "*.gitignore": {
-      "pluginIdString": "Git4Idea",
-      "nullablePluginName": "Git",
-      "isBundled": true
-    },
-    "exclude": {
-      "pluginIdString": "Git4Idea",
-      "nullablePluginName": "Git",
-      "isBundled": true
-    },
-    "*.ld": {
-      "pluginIdString": "com.jetbrains.linkerscript",
-      "nullablePluginName": "LinkerScript",
-      "isBundled": true
-    },
-    "*.lds": {
-      "pluginIdString": "com.jetbrains.linkerscript",
-      "nullablePluginName": "LinkerScript",
-      "isBundled": true
-    },
-    "*.postfixtemplates": {
-      "pluginIdString": "de.endrullis.idea.postfixtemplates",
-      "nullablePluginName": "Custom Postfix Templates"
+  <component name="PluginAdvertiserExtensions">{
+  &quot;plugins&quot;: {
+    &quot;*.cr&quot;: {
+      &quot;pluginIdString&quot;: &quot;net.kenro.ji.jin.intellij.crystal-2&quot;,
+      &quot;nullablePluginName&quot;: &quot;Crystal language support updated for v2018.2 onwards&quot;
+    },
+    &quot;*.logtalk&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.logtalk&quot;,
+      &quot;nullablePluginName&quot;: &quot;Logtalk&quot;
+    },
+    &quot;*.prolog&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.logtalk&quot;,
+      &quot;nullablePluginName&quot;: &quot;Logtalk&quot;
+    },
+    &quot;*.bat&quot;: {
+      &quot;pluginIdString&quot;: &quot;CMD Support&quot;,
+      &quot;nullablePluginName&quot;: &quot;CMD Support&quot;
+    },
+    &quot;*.cmd&quot;: {
+      &quot;pluginIdString&quot;: &quot;CMD Support&quot;,
+      &quot;nullablePluginName&quot;: &quot;CMD Support&quot;
+    },
+    &quot;*.erl&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.erlang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Erlang&quot;
+    },
+    &quot;*.hrl&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.erlang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Erlang&quot;
+    },
+    &quot;*.app&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.erlang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Erlang&quot;
+    },
+    &quot;*.app.src&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.erlang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Erlang&quot;
+    },
+    &quot;*.config&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.erlang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Erlang&quot;
+    },
+    &quot;*.routes&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.erlang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Erlang&quot;
+    },
+    &quot;*.rel&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.erlang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Erlang&quot;
+    },
+    &quot;*.c&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.inl&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ixx&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.icc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cuh&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.mm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.tpp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.hxx&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.hh&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.h++&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cppm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cxxm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cpp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.h&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.hp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.i&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ino&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.mxx&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.m&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cxx&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.tcc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.c++&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cu&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.hpp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.c++m&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pch&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ccm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ii&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ipp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.zip&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.egg&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ear&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ane&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.war&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jar&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.apk&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.swc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.txt&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.log&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pptx&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xlsx&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pdf&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.jetbrains.restClient&quot;,
+      &quot;nullablePluginName&quot;: &quot;HTTP Client&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ppt&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.vsd&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.doc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.mdb&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.hlp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.odt&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xls&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.docx&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.iws&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.iml&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ipr&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.patch&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.diff&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ignore&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.rnc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.htm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ng&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.html&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.shtm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.shtml&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.sht&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xhtml&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.mod&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.dtd&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ent&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.elt&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.fxml&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jrxml&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ant&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xsd&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.rng&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.tld&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jhm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xul&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xsl&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.wsdl&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xml&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jnlp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xslt&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.regexp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.dic&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;bowerrc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;jest.config&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;.prettierrc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;.stylelintrc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;.eslintrc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.har&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jsb2&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.json&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jsb3&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;.babelrc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.json5&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;devcontainer.json&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ndjson&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jsonlines&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ldjson&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jsonl&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij&quot;,
+      &quot;nullablePluginName&quot;: &quot;IDEA CORE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;.clang-tidy&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.yaml&quot;,
+      &quot;nullablePluginName&quot;: &quot;YAML&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;.clang-format&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.yaml&quot;,
+      &quot;nullablePluginName&quot;: &quot;YAML&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;_clang-format&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.yaml&quot;,
+      &quot;nullablePluginName&quot;: &quot;YAML&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.yml&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.yaml&quot;,
+      &quot;nullablePluginName&quot;: &quot;YAML&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.apinotes&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.yaml&quot;,
+      &quot;nullablePluginName&quot;: &quot;YAML&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.yaml&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.yaml&quot;,
+      &quot;nullablePluginName&quot;: &quot;YAML&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ui&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.qt&quot;,
+      &quot;nullablePluginName&quot;: &quot;Qt&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.qrc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.qt&quot;,
+      &quot;nullablePluginName&quot;: &quot;Qt&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.hgignore&quot;: {
+      &quot;pluginIdString&quot;: &quot;hg4idea&quot;,
+      &quot;nullablePluginName&quot;: &quot;Mercurial&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.uml&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.diagram&quot;,
+      &quot;nullablePluginName&quot;: &quot;Diagrams&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.tsv&quot;: {
+      &quot;pluginIdString&quot;: &quot;intellij.grid.core.impl&quot;,
+      &quot;nullablePluginName&quot;: &quot;Data Editor Support Core&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.csv&quot;: {
+      &quot;pluginIdString&quot;: &quot;intellij.grid.core.impl&quot;,
+      &quot;nullablePluginName&quot;: &quot;Data Editor Support Core&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Gopkg.lock&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.toml.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Toml&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Pipfile&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.toml.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Toml&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Cargo.toml.orig&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.toml.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Toml&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.toml&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.toml.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Toml&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Cargo.lock&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.toml.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Toml&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;poetry.lock&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.toml.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Toml&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.rs&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.rust.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;Rust&quot;
+    },
+    &quot;*.ijperf&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.jetbrains.performancePlugin&quot;,
+      &quot;nullablePluginName&quot;: &quot;Performance Testing&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pod&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.perl5&quot;,
+      &quot;nullablePluginName&quot;: &quot;Perl&quot;
+    },
+    &quot;*.cgi&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.perl5&quot;,
+      &quot;nullablePluginName&quot;: &quot;Perl&quot;
+    },
+    &quot;*.ph&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.perl5&quot;,
+      &quot;nullablePluginName&quot;: &quot;Perl&quot;
+    },
+    &quot;*.al&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.perl5&quot;,
+      &quot;nullablePluginName&quot;: &quot;Perl&quot;
+    },
+    &quot;*.pl&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.perl5&quot;,
+      &quot;nullablePluginName&quot;: &quot;Perl&quot;
+    },
+    &quot;*.pm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.perl5&quot;,
+      &quot;nullablePluginName&quot;: &quot;Perl&quot;
+    },
+    &quot;cpanfile&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.perl5&quot;,
+      &quot;nullablePluginName&quot;: &quot;Perl&quot;
+    },
+    &quot;*.t&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.perl5&quot;,
+      &quot;nullablePluginName&quot;: &quot;Perl&quot;
+    },
+    &quot;*.xs&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.perl5&quot;,
+      &quot;nullablePluginName&quot;: &quot;Perl&quot;
+    },
+    &quot;*.jpg&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.psd&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xbm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.tiff&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.bigtiff&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.bmp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pcx&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.gif&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.png&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ppm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.rgbe&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.icns&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pnm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.tga&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.tif&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ico&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xpm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pgm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.dcx&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jpeg&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.wbmp&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pbm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pam&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jbig2&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.svg&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.platform.images&quot;,
+      &quot;nullablePluginName&quot;: &quot;Images&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.css&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.css&quot;,
+      &quot;nullablePluginName&quot;: &quot;CSS&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.less&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.less&quot;,
+      &quot;nullablePluginName&quot;: &quot;Less&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pcss&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.intellij.plugins.postcss&quot;,
+      &quot;nullablePluginName&quot;: &quot;PostCSS&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.sass&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.sass&quot;,
+      &quot;nullablePluginName&quot;: &quot;Sass&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.scss&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.sass&quot;,
+      &quot;nullablePluginName&quot;: &quot;Sass&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.md&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.intellij.plugins.markdown&quot;,
+      &quot;nullablePluginName&quot;: &quot;Markdown&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.markdown&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.intellij.plugins.markdown&quot;,
+      &quot;nullablePluginName&quot;: &quot;Markdown&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;GNUmakefile&quot;: {
+      &quot;pluginIdString&quot;: &quot;name.kropp.intellij.makefile&quot;,
+      &quot;nullablePluginName&quot;: &quot;Makefile Language&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;makefile&quot;: {
+      &quot;pluginIdString&quot;: &quot;name.kropp.intellij.makefile&quot;,
+      &quot;nullablePluginName&quot;: &quot;Makefile Language&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.mk&quot;: {
+      &quot;pluginIdString&quot;: &quot;name.kropp.intellij.makefile&quot;,
+      &quot;nullablePluginName&quot;: &quot;Makefile Language&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.conf&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.hocon&quot;,
+      &quot;nullablePluginName&quot;: &quot;HOCON&quot;
+    },
+    &quot;*.rest&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.jetbrains.restClient&quot;,
+      &quot;nullablePluginName&quot;: &quot;HTTP Client&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.http&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.jetbrains.restClient&quot;,
+      &quot;nullablePluginName&quot;: &quot;HTTP Client&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;http-client.cookies&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.jetbrains.restClient&quot;,
+      &quot;nullablePluginName&quot;: &quot;HTTP Client&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xpath&quot;: {
+      &quot;pluginIdString&quot;: &quot;XPathView&quot;,
+      &quot;nullablePluginName&quot;: &quot;XPathView + XSLT&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.xpath2&quot;: {
+      &quot;pluginIdString&quot;: &quot;XPathView&quot;,
+      &quot;nullablePluginName&quot;: &quot;XPathView + XSLT&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jql&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.tasks&quot;,
+      &quot;nullablePluginName&quot;: &quot;Task Management&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Dockerfile&quot;: {
+      &quot;pluginIdString&quot;: &quot;Docker&quot;,
+      &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Dockerfile.fast-jar&quot;: {
+      &quot;pluginIdString&quot;: &quot;Docker&quot;,
+      &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Dockerfile.jvm&quot;: {
+      &quot;pluginIdString&quot;: &quot;Docker&quot;,
+      &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Dockerfile.native-micro&quot;: {
+      &quot;pluginIdString&quot;: &quot;Docker&quot;,
+      &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Dockerfile.native&quot;: {
+      &quot;pluginIdString&quot;: &quot;Docker&quot;,
+      &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Dockerfile.legacy-jar&quot;: {
+      &quot;pluginIdString&quot;: &quot;Docker&quot;,
+      &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.dockerfile&quot;: {
+      &quot;pluginIdString&quot;: &quot;Docker&quot;,
+      &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Dockerfile.jlink&quot;: {
+      &quot;pluginIdString&quot;: &quot;Docker&quot;,
+      &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;Dockerfile.native-distroless&quot;: {
+      &quot;pluginIdString&quot;: &quot;Docker&quot;,
+      &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.dockerignore&quot;: {
+      &quot;pluginIdString&quot;: &quot;Docker&quot;,
+      &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.snap&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.js.flow&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.js&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cjs&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.as&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.js2&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.es&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ats&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cts&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.mts&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ts&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.tsx&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.mjs&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.es6&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jsx&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;jshint.json&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.jshintrc&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;yarn.lock&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;tsconfig.app.json&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;tsconfig.spec.json&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;tsconfig.json&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;tsconfig.e2e.json&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;tsconfig.editor.json&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;tsconfig.test.json&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;tsconfig.lib.json&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.js.map&quot;: {
+      &quot;pluginIdString&quot;: &quot;JavaScriptDebugger&quot;,
+      &quot;nullablePluginName&quot;: &quot;JavaScript Debugger&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.prc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.vw&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pkb&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pls&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.tps&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.tpb&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.trg&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pck&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pks&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.fnc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ddl&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.sql&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.cql&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.hql&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.redis&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.database&quot;,
+      &quot;nullablePluginName&quot;: &quot;Database Tools and SQL&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.vue&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.vue&quot;,
+      &quot;nullablePluginName&quot;: &quot;Vue.js&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.qml&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.lang.qml&quot;,
+      &quot;nullablePluginName&quot;: &quot;QML&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.qmltypes&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.lang.qml&quot;,
+      &quot;nullablePluginName&quot;: &quot;QML&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.gdbcommandsfiletypeextension&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.nativeDebug&quot;,
+      &quot;nullablePluginName&quot;: &quot;Native Debugging Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.lldbcommandsfiletypeextension&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.nativeDebug&quot;,
+      &quot;nullablePluginName&quot;: &quot;Native Debugging Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.natvis&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.nativeDebug&quot;,
+      &quot;nullablePluginName&quot;: &quot;Native Debugging Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.asm&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.base&quot;,
+      &quot;nullablePluginName&quot;: &quot;CIDR Base&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;module.map&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.modulemap&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.hmap&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.doxygen&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.cidr.lang&quot;,
+      &quot;nullablePluginName&quot;: &quot;C/C++ Language Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.sdl&quot;: {
+      &quot;pluginIdString&quot;: &quot;net.masterthought.dlanguage&quot;,
+      &quot;nullablePluginName&quot;: &quot;D Language&quot;
+    },
+    &quot;*.d&quot;: {
+      &quot;pluginIdString&quot;: &quot;net.masterthought.dlanguage&quot;,
+      &quot;nullablePluginName&quot;: &quot;D Language&quot;
+    },
+    &quot;*.di&quot;: {
+      &quot;pluginIdString&quot;: &quot;net.masterthought.dlanguage&quot;,
+      &quot;nullablePluginName&quot;: &quot;D Language&quot;
+    },
+    &quot;*.cmake&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.clion&quot;,
+      &quot;nullablePluginName&quot;: &quot;CLion IDE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;CMakeLists.txt&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.clion&quot;,
+      &quot;nullablePluginName&quot;: &quot;CLion IDE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;CMakeCache.txt&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.clion&quot;,
+      &quot;nullablePluginName&quot;: &quot;CLion IDE&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.py&quot;: {
+      &quot;pluginIdString&quot;: &quot;PythonCore&quot;,
+      &quot;nullablePluginName&quot;: &quot;Python Community Edition&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pyw&quot;: {
+      &quot;pluginIdString&quot;: &quot;PythonCore&quot;,
+      &quot;nullablePluginName&quot;: &quot;Python Community Edition&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.pyi&quot;: {
+      &quot;pluginIdString&quot;: &quot;PythonCore&quot;,
+      &quot;nullablePluginName&quot;: &quot;Python Community Edition&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.f95&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.fortran&quot;,
+      &quot;nullablePluginName&quot;: &quot;Fortran&quot;
+    },
+    &quot;*.f03&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.fortran&quot;,
+      &quot;nullablePluginName&quot;: &quot;Fortran&quot;
+    },
+    &quot;*.f90&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.fortran&quot;,
+      &quot;nullablePluginName&quot;: &quot;Fortran&quot;
+    },
+    &quot;*.f08&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.fortran&quot;,
+      &quot;nullablePluginName&quot;: &quot;Fortran&quot;
+    },
+    &quot;*.f&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.fortran&quot;,
+      &quot;nullablePluginName&quot;: &quot;Fortran&quot;
+    },
+    &quot;*.for&quot;: {
+      &quot;pluginIdString&quot;: &quot;org.jetbrains.fortran&quot;,
+      &quot;nullablePluginName&quot;: &quot;Fortran&quot;
+    },
+    &quot;*.ioc&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.intellij.clion.embedded&quot;,
+      &quot;nullablePluginName&quot;: &quot;Embedded Development Support&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.gitignore&quot;: {
+      &quot;pluginIdString&quot;: &quot;Git4Idea&quot;,
+      &quot;nullablePluginName&quot;: &quot;Git&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;exclude&quot;: {
+      &quot;pluginIdString&quot;: &quot;Git4Idea&quot;,
+      &quot;nullablePluginName&quot;: &quot;Git&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.ld&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.jetbrains.linkerscript&quot;,
+      &quot;nullablePluginName&quot;: &quot;LinkerScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.lds&quot;: {
+      &quot;pluginIdString&quot;: &quot;com.jetbrains.linkerscript&quot;,
+      &quot;nullablePluginName&quot;: &quot;LinkerScript&quot;,
+      &quot;isBundled&quot;: true
+    },
+    &quot;*.postfixtemplates&quot;: {
+      &quot;pluginIdString&quot;: &quot;de.endrullis.idea.postfixtemplates&quot;,
+      &quot;nullablePluginName&quot;: &quot;Custom Postfix Templates&quot;
     }
   }
-}]]></component>
+}</component>
   <component name="PluginFeatureCacheService"><![CDATA[{
   "extensions": {
     "featureMap": {
@@ -14666,6 +14666,10 @@
           {
             "pluginIdString": "com.jetbrains.rider.android",
             "nullablePluginName": "Rider Xamarin Android Support"
+          },
+          {
+            "pluginIdString": "com.android.tools.idea.smali",
+            "nullablePluginName": "Smali Support"
           }
         ]
       },
@@ -19616,7 +19620,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1693001872835
+    "lastUpdateTime": 1693244194644
   },
   "dependencies": {
     "featureMap": {
@@ -21221,168 +21225,168 @@
         ]
       }
     },
-    "lastUpdateTime": 1693001873078
+    "lastUpdateTime": 1693244194760
   }
 }]]></component>
-  <component name="PluginFeatureService"><![CDATA[{
-  "features": {
-    "com.intellij.facetType": {
-      "featureMap": {
-        "Python": {
-          "displayName": "Python",
-          "pluginData": {
-            "pluginIdString": "PythonCore",
-            "nullablePluginName": "Python Community Edition",
-            "isBundled": true
+  <component name="PluginFeatureService">{
+  &quot;features&quot;: {
+    &quot;com.intellij.facetType&quot;: {
+      &quot;featureMap&quot;: {
+        &quot;Python&quot;: {
+          &quot;displayName&quot;: &quot;Python&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;PythonCore&quot;,
+            &quot;nullablePluginName&quot;: &quot;Python Community Edition&quot;,
+            &quot;isBundled&quot;: true
           }
         }
       }
     },
-    "dependencySupport": {
-      "featureMap": {
-        "javascript:npm:postcss": {
-          "displayName": "PostCSS",
-          "pluginData": {
-            "pluginIdString": "org.intellij.plugins.postcss",
-            "nullablePluginName": "PostCSS",
-            "isBundled": true
+    &quot;dependencySupport&quot;: {
+      &quot;featureMap&quot;: {
+        &quot;javascript:npm:postcss&quot;: {
+          &quot;displayName&quot;: &quot;PostCSS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.intellij.plugins.postcss&quot;,
+            &quot;nullablePluginName&quot;: &quot;PostCSS&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "executable:docker": {
-          "displayName": "executable:docker",
-          "pluginData": {
-            "pluginIdString": "Docker",
-            "nullablePluginName": "Docker",
-            "isBundled": true
+        &quot;executable:docker&quot;: {
+          &quot;displayName&quot;: &quot;executable:docker&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Docker&quot;,
+            &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "executable:podman": {
-          "displayName": "executable:podman",
-          "pluginData": {
-            "pluginIdString": "Docker",
-            "nullablePluginName": "Docker",
-            "isBundled": true
+        &quot;executable:podman&quot;: {
+          &quot;displayName&quot;: &quot;executable:podman&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Docker&quot;,
+            &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.fabric8:kubernetes-client": {
-          "displayName": "java:io.fabric8:kubernetes-client",
-          "pluginData": {
-            "pluginIdString": "com.intellij.kubernetes",
-            "nullablePluginName": "Kubernetes"
+        &quot;java:io.fabric8:kubernetes-client&quot;: {
+          &quot;displayName&quot;: &quot;java:io.fabric8:kubernetes-client&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.kubernetes&quot;,
+            &quot;nullablePluginName&quot;: &quot;Kubernetes&quot;
           }
         },
-        "java:org.springframework.cloud:spring-cloud-kubernetes": {
-          "displayName": "java:org.springframework.cloud:spring-cloud-kubernetes",
-          "pluginData": {
-            "pluginIdString": "com.intellij.kubernetes",
-            "nullablePluginName": "Kubernetes"
+        &quot;java:org.springframework.cloud:spring-cloud-kubernetes&quot;: {
+          &quot;displayName&quot;: &quot;java:org.springframework.cloud:spring-cloud-kubernetes&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.kubernetes&quot;,
+            &quot;nullablePluginName&quot;: &quot;Kubernetes&quot;
           }
         },
-        "executable:kubectl": {
-          "displayName": "executable:kubectl",
-          "pluginData": {
-            "pluginIdString": "com.intellij.kubernetes",
-            "nullablePluginName": "Kubernetes"
+        &quot;executable:kubectl&quot;: {
+          &quot;displayName&quot;: &quot;executable:kubectl&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.kubernetes&quot;,
+            &quot;nullablePluginName&quot;: &quot;Kubernetes&quot;
           }
         },
-        "javascript:npm:react": {
-          "displayName": "React",
-          "pluginData": {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript and TypeScript",
-            "isBundled": true
+        &quot;javascript:npm:react&quot;: {
+          &quot;displayName&quot;: &quot;React&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:webpack": {
-          "displayName": "Webpack",
-          "pluginData": {
-            "pluginIdString": "intellij.webpack",
-            "nullablePluginName": "Webpack",
-            "isBundled": true
+        &quot;javascript:npm:webpack&quot;: {
+          &quot;displayName&quot;: &quot;Webpack&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.webpack&quot;,
+            &quot;nullablePluginName&quot;: &quot;Webpack&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:tailwindcss": {
-          "displayName": "Tailwind CSS",
-          "pluginData": {
-            "pluginIdString": "com.intellij.tailwindcss",
-            "nullablePluginName": "Tailwind CSS",
-            "isBundled": true
+        &quot;javascript:npm:tailwindcss&quot;: {
+          &quot;displayName&quot;: &quot;Tailwind CSS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.tailwindcss&quot;,
+            &quot;nullablePluginName&quot;: &quot;Tailwind CSS&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:vite": {
-          "displayName": "Vite",
-          "pluginData": {
-            "pluginIdString": "intellij.vitejs",
-            "nullablePluginName": "Vite",
-            "isBundled": true
+        &quot;javascript:npm:vite&quot;: {
+          &quot;displayName&quot;: &quot;Vite&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.vitejs&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vite&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:vue": {
-          "displayName": "Vue.js",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.vue",
-            "nullablePluginName": "Vue.js",
-            "isBundled": true
+        &quot;javascript:npm:vue&quot;: {
+          &quot;displayName&quot;: &quot;Vue.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.vue&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vue.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:nuxt": {
-          "displayName": "Nuxt",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.vue",
-            "nullablePluginName": "Vue.js",
-            "isBundled": true
+        &quot;javascript:npm:nuxt&quot;: {
+          &quot;displayName&quot;: &quot;Nuxt&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.vue&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vue.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:tslint": {
-          "displayName": "TSLint",
-          "pluginData": {
-            "pluginIdString": "tslint",
-            "nullablePluginName": "TSLint",
-            "isBundled": true
+        &quot;javascript:npm:tslint&quot;: {
+          &quot;displayName&quot;: &quot;TSLint&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;tslint&quot;,
+            &quot;nullablePluginName&quot;: &quot;TSLint&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:styled-components": {
-          "displayName": "Styled Components",
-          "pluginData": {
-            "pluginIdString": "com.deadlock.scsyntax",
-            "nullablePluginName": "Styled Components & Styled JSX",
-            "isBundled": true
+        &quot;javascript:npm:styled-components&quot;: {
+          &quot;displayName&quot;: &quot;Styled Components&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.deadlock.scsyntax&quot;,
+            &quot;nullablePluginName&quot;: &quot;Styled Components &amp; Styled JSX&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:prettier": {
-          "displayName": "Prettier",
-          "pluginData": {
-            "pluginIdString": "intellij.prettierJS",
-            "nullablePluginName": "Prettier",
-            "isBundled": true
+        &quot;javascript:npm:prettier&quot;: {
+          &quot;displayName&quot;: &quot;Prettier&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.prettierJS&quot;,
+            &quot;nullablePluginName&quot;: &quot;Prettier&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:next": {
-          "displayName": "Next.js",
-          "pluginData": {
-            "pluginIdString": "intellij.nextjs",
-            "nullablePluginName": "Next.js Support",
-            "isBundled": true
+        &quot;javascript:npm:next&quot;: {
+          &quot;displayName&quot;: &quot;Next.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.nextjs&quot;,
+            &quot;nullablePluginName&quot;: &quot;Next.js Support&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:karma": {
-          "displayName": "Karma",
-          "pluginData": {
-            "pluginIdString": "Karma",
-            "nullablePluginName": "Karma",
-            "isBundled": true
+        &quot;javascript:npm:karma&quot;: {
+          &quot;displayName&quot;: &quot;Karma&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Karma&quot;,
+            &quot;nullablePluginName&quot;: &quot;Karma&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:@angular/core": {
-          "displayName": "Angular",
-          "pluginData": {
-            "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS",
-            "isBundled": true
+        &quot;javascript:npm:@angular/core&quot;: {
+          &quot;displayName&quot;: &quot;Angular&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;AngularJS&quot;,
+            &quot;nullablePluginName&quot;: &quot;Angular and AngularJS&quot;,
+            &quot;isBundled&quot;: true
           }
         }
       }
     }
   }
-}]]></component>
+}</component>
 </application>
