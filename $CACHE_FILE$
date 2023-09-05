@@ -5308,6 +5308,14 @@
           }
         ]
       },
+      "*.dto": {
+        "dataSet": [
+          {
+            "pluginIdString": "net.fallingangel.jimmer-dto",
+            "nullablePluginName": "JimmerDTO"
+          }
+        ]
+      },
       "*.dtp": {
         "dataSet": [
           {
@@ -13418,6 +13426,10 @@
           {
             "pluginIdString": "net.postchain.rellide.jetbrains",
             "nullablePluginName": "Rell"
+          },
+          {
+            "pluginIdString": "net.postchain.rellide.jetbrains.ultimate",
+            "nullablePluginName": "Rell Ultimate"
           }
         ]
       },
@@ -17305,6 +17317,14 @@
           }
         ]
       },
+      "*.whl": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.camork.fileExpander",
+            "nullablePluginName": "File Expander"
+          }
+        ]
+      },
       "*.wiki": {
         "dataSet": [
           {
@@ -19620,7 +19640,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1693244194644
+    "lastUpdateTime": 1693891628520
   },
   "dependencies": {
     "featureMap": {
@@ -21225,7 +21245,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1693244194760
+    "lastUpdateTime": 1693891780403
   }
 }]]></component>
   <component name="PluginFeatureService">{

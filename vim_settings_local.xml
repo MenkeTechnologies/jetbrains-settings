@@ -9,7 +9,6 @@
     <jump line="24" column="13" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
     <jump line="33" column="0" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
     <jump line="72" column="0" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
-    <jump line="73" column="0" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
     <jump line="66" column="0" filename="$APPLICATION_HOME_DIR$/bin/cmake/mac/share/cmake-3.26/Modules/CMakeTestCCompiler.cmake" />
     <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/3530binpacking/cmake-build-debug/CMakeCache.txt" />
     <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/3530binpacking/cmake-build-debug/Makefile" />
@@ -34,9 +33,12 @@
     <jump line="6" column="0" filename="$USER_HOME$/CLionProjects/3530binpacking/CMakeLists.txt" />
     <jump line="1" column="8" filename="$USER_HOME$/CLionProjects/3530binpacking/CMakeLists.txt" />
     <jump line="36" column="16" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
-    <jump line="41" column="7" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
     <jump line="52" column="0" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
     <jump line="47" column="32" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
+    <jump line="41" column="15" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
+    <jump line="23" column="30" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
+    <jump line="73" column="0" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
+    <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" />
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
@@ -76,7 +78,8 @@
       <file name="$USER_HOME$/CLionProjects/untitled/CMakeLists.txt" timestamp="1693001865678">
         <mark key="&quot;" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" timestamp="1693002346671">
+      <file name="$USER_HOME$/CLionProjects/3530binpacking/main.cpp" timestamp="1693891868397">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="61" column="24" />
         <mark key="]" line="61" column="24" />
         <mark key="^" line="61" column="24" />
