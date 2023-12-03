@@ -43,7 +43,6 @@
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
   <action id="EditorDuplicate" />
-  <action id="EditorEscape" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
   </action>
