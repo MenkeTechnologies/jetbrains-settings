@@ -4,8 +4,11 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="accentColor" value="ff9800" />
+    <option name="secondAccentColor" />
+    <option name="highlightColor" />
+    <option name="focusColor" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-385c3441:1850508d06b:-8000" />
-    <option name="version" value="8.12.6" />
+    <option name="version" value="8.13.2" />
   </component>
 </application>
