@@ -2597,11 +2597,6 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -2629,11 +2624,6 @@
       <value>
         <option name="FOREGROUND" value="73642" />
         <option name="BACKGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
