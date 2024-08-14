@@ -1,11 +1,7 @@
 <application>
   <component name="GithubAccounts">
-    <account id="2ad7c7aa-7a5d-4041-abe3-4a3f04e1acba" name="MenkeTechnologies">
+    <account name="MenkeTechnologies" id="2ad7c7aa-7a5d-4041-abe3-4a3f04e1acba">
       <server host="github.com" />
     </account>
-  </component>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="jamenk@email.wm.edu" />
-    <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>

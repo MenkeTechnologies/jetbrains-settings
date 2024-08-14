@@ -1,7 +1,10 @@
 <application>
   <component name="FileTypeManager" version="19">
     <extensionMap>
+      <mapping ext="conf" type="HOCON" />
+      <removed_mapping ext="conf" type="KConfig" />
       <mapping ext="lgt" type="Logtalk resource" />
+      <mapping ext="pl" type="Prolog resource" />
       <mapping ext="dproj" type="XML" />
       <mapping ext="lpi" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
