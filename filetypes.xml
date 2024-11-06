@@ -9,6 +9,7 @@
       <removed_mapping ext="conf" approved="true" type="KConfig" />
       <removed_mapping ext="config" approved="true" type="LOMBOK_CONFIG" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
+      <removed_mapping ext="pl" approved="true" type="Perl5 Script" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
