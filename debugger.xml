@@ -90,6 +90,7 @@
     <debuggers>
       <debugger id="ObjectiveC">
         <configuration>
+          <child-process-debugging-settings />
           <macOS-symbol-settings />
           <nt-symbol-settings />
         </configuration>
