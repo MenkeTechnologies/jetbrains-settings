@@ -8,7 +8,6 @@
     <entry key="org.toml.json.schema" value="false" />
     <entry key="moved.to.new.ui" value="true" />
     <entry key="ide.experimental.ui" value="true" />
-    <entry key="i18n.locale" value="" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
