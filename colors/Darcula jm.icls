@@ -5,8 +5,8 @@
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="CONSOLE_BACKGROUND_KEY" value="1b1b1b" />
-    <option name="GUTTER_BACKGROUND" value="2b2b2b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1B1B1B" />
+    <option name="GUTTER_BACKGROUND" value="2B2B2B" />
   </colors>
   <attributes>
     <option name="CLASS_NAME_ATTRIBUTES">

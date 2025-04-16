@@ -4,26 +4,26 @@
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Menlo" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="baeeba" />
-    <option name="ANNOTATIONS_COLOR" value="586e75" />
-    <option name="ANNOTATIONS_MERGED_COLOR" value="586e75" />
-    <option name="CARET_COLOR" value="dc322f" />
-    <option name="CARET_ROW_COLOR" value="eee8d5" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
-    <option name="GUTTER_BACKGROUND" value="eee8d5" />
-    <option name="INDENT_GUIDE" value="eee8d5" />
-    <option name="LINE_NUMBERS_COLOR" value="93a1a1" />
-    <option name="METHOD_SEPARATORS_COLOR" value="eee8d5" />
-    <option name="MODIFIED_LINES_COLOR" value="bccff9" />
-    <option name="NOTIFICATION_BACKGROUND" value="eee8d5" />
+    <option name="ADDED_LINES_COLOR" value="BAEEBA" />
+    <option name="ANNOTATIONS_COLOR" value="586E75" />
+    <option name="ANNOTATIONS_MERGED_COLOR" value="586E75" />
+    <option name="CARET_COLOR" value="DC322F" />
+    <option name="CARET_ROW_COLOR" value="EEE8D5" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="FDF6E3" />
+    <option name="GUTTER_BACKGROUND" value="EEE8D5" />
+    <option name="INDENT_GUIDE" value="EEE8D5" />
+    <option name="LINE_NUMBERS_COLOR" value="93A1A1" />
+    <option name="METHOD_SEPARATORS_COLOR" value="EEE8D5" />
+    <option name="MODIFIED_LINES_COLOR" value="BCCFF9" />
+    <option name="NOTIFICATION_BACKGROUND" value="EEE8D5" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
-    <option name="RIGHT_MARGIN_COLOR" value="eee8d5" />
-    <option name="SELECTED_INDENT_GUIDE" value="93a1a1" />
+    <option name="RIGHT_MARGIN_COLOR" value="EEE8D5" />
+    <option name="SELECTED_INDENT_GUIDE" value="93A1A1" />
     <option name="SELECTED_TEARLINE_COLOR" value="" />
     <option name="SELECTION_BACKGROUND" value="839496" />
-    <option name="SELECTION_FOREGROUND" value="fdf6e3" />
-    <option name="TEARLINE_COLOR" value="93a1a1" />
-    <option name="WHITESPACES" value="93a1a1" />
+    <option name="SELECTION_FOREGROUND" value="FDF6E3" />
+    <option name="TEARLINE_COLOR" value="93A1A1" />
+    <option name="WHITESPACES" value="93A1A1" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
