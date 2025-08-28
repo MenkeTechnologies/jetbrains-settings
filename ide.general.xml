@@ -8,6 +8,8 @@
     <entry key="org.toml.json.schema" value="false" source="SYSTEM" />
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
+    <entry key="cache.folding.model.on.disk" value="false" source="SYSTEM" />
+    <entry key="clang.parameter.info" value="true" source="SYSTEM" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
