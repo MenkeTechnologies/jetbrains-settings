@@ -1,7 +1,7 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
-    <driver id="mongo">
-      <artifact id="MongoDB" name="MongoDB" use="true" version="1.13" />
+    <driver id="sqlite.xerial">
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.34.0" />
     </driver>
     <driver id="mysql.8">
       <artifact />
@@ -10,8 +10,8 @@
     <driver id="oracle">
       <artifact id="Oracle" name="Oracle" use="true" version="19.8.0.0" />
     </driver>
-    <driver id="sqlite.xerial">
-      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.34.0" />
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.13" />
     </driver>
   </component>
 </application>
