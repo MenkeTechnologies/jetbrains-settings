@@ -8,7 +8,6 @@
     <entry key="org.toml.json.schema" value="false" source="SYSTEM" />
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
-    <entry key="cache.folding.model.on.disk" value="false" source="SYSTEM" />
     <entry key="clang.parameter.info" value="true" source="SYSTEM" />
     <entry key="llm.rules.refresh.interval" value="10" source="MANAGER" />
     <entry key="llm.selector.config.refresh.interval" value="10" source="MANAGER" />
