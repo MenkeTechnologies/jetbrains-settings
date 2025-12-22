@@ -167,6 +167,9 @@
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
   </component>
+  <component name="RiderEditorSettings">
+    <option name="calculateRenderedDocCommentsInNormalEditors" value="true" />
+  </component>
   <component name="RubyEditorOptions">
     <option name="startInterpolationOnHash" value="true" />
   </component>
