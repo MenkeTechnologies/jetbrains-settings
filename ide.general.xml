@@ -9,7 +9,6 @@
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
     <entry key="clang.parameter.info" value="true" source="SYSTEM" />
-    <entry key="llm.jcp.analytics.endpoint.url" value="https://api.jetbrains.cloud/analytics/events/push" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
