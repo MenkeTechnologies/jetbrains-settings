@@ -11,6 +11,8 @@
     <entry key="clang.parameter.info" value="true" source="SYSTEM" />
     <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
     <entry key="clion.hide.welcome.screen.onboarding.feedback.promo" value="false" source="MANAGER" />
+    <entry key="llm.chat.agent.codex.install.codex.version" value="0.111.0" source="MANAGER" />
+    <entry key="llm.chat.agent.codex.install.acp.server.version" value="0.0.29" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
