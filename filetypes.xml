@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="lgt" type="Logtalk resource" />
       <mapping ext="pl" type="Prolog resource" />
+      <mapping pattern="*.sarif*.json" type="SARIF" />
+      <mapping pattern="*.sarif.json" type="SARIF" />
       <mapping ext="dproj" type="XML" />
       <mapping ext="lpi" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
