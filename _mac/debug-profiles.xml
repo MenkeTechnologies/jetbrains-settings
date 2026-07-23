@@ -1,0 +1,12 @@
+<application>
+  <component name="Debug Profiles">
+    <debug-profiles>
+      <debug-profile>
+        <option name="id" value="a9c7c68a-4d4c-48a2-8a13-d7748a03e90b" />
+        <option name="type" value="lldb" />
+        <option name="name" value="LLDB" />
+        <settings />
+      </debug-profile>
+    </debug-profiles>
+  </component>
+</application>
