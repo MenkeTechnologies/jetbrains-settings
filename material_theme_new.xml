@@ -19,6 +19,11 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="COBALT2">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
             <entry key="DARKER">
               <value>
                 <MTFavoriteTheme />
@@ -65,6 +70,16 @@
               </value>
             </entry>
             <entry key="GITHUB_DARK">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="HORIZON">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="HORIZON_BRIGHT">
               <value>
                 <MTFavoriteTheme />
               </value>
@@ -139,6 +154,11 @@
                 <MTFavoriteTheme />
               </value>
             </entry>
+            <entry key="OMNI">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
             <entry key="ONE_DARK">
               <value>
                 <MTFavoriteTheme />
@@ -160,6 +180,16 @@
               </value>
             </entry>
             <entry key="PALENIGHT">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="PRISM">
+              <value>
+                <MTFavoriteTheme />
+              </value>
+            </entry>
+            <entry key="PRISM_LIGHT">
               <value>
                 <MTFavoriteTheme />
               </value>
@@ -206,7 +236,7 @@
     <option name="metadata">
       <MTMetadataState>
         <option name="userId" value="3e9ba60a:18eec84bfa8:-8000" />
-        <option name="version" value="11.1.0" />
+        <option name="version" value="12.0.0" />
         <option name="wizardShown" value="true" />
       </MTMetadataState>
     </option>
