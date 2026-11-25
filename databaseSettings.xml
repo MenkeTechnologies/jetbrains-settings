@@ -1,5 +1,5 @@
 <application>
-  <component name="DatabaseSettings" version="10">
+  <component name="DatabaseSettings" version="11">
     <text-mode>
       <parameter-patterns>
         <parameter-pattern value="#(\w+)#" in-scripts="true" scope="XML" predefined="#name#" />

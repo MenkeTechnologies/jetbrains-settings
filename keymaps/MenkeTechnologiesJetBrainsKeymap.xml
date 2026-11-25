@@ -2,6 +2,7 @@
   <action id="ActivateBigDataToolWindowToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl meta b" />
   </action>
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -110,6 +111,7 @@
     <keyboard-shortcut first-keystroke="meta r" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="RunAnything" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="Scala.ExpandImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt minus" />
