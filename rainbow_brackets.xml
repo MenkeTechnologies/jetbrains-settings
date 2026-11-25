@@ -1,6 +1,9 @@
 <application>
   <component name="RainbowSettings">
     <option name="indentGuidesOptions" value="Only selected indent guide" />
+    <option name="suppressAdvancedIndentGuidesBanner" value="true" />
+    <option name="suppressBigFileCheck" value="true" />
+    <option name="suppressRainbowifyCMacroKeywords" value="true" />
     <option name="version" value="2026.2.3" />
   </component>
 </application>
